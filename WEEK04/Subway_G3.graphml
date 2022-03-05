@@ -1,0 +1,4333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="lon" attr.type="double" for="node" id="d6" />
+  <key attr.name="lat" attr.type="double" for="node" id="d5" />
+  <key attr.name="link_name" attr.type="string" for="node" id="d4" />
+  <key attr.name="delta_rides" attr.type="long" for="node" id="d3" />
+  <key attr.name="rides2020" attr.type="long" for="node" id="d2" />
+  <key attr.name="rides2019" attr.type="long" for="node" id="d1" />
+  <key attr.name="borough" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="101">
+      <data key="d0">Bx</data>
+      <data key="d1">2189109</data>
+      <data key="d2">980836</data>
+      <data key="d3">-1208273</data>
+      <data key="d4">Van Cortlandt Park-242 St</data>
+      <data key="d5">40.889248</data>
+      <data key="d6">-73.898583</data>
+    </node>
+    <node id="103">
+      <data key="d0">Bx</data>
+      <data key="d1">1204095</data>
+      <data key="d2">588199</data>
+      <data key="d3">-615896</data>
+      <data key="d4">238 St</data>
+      <data key="d5">40.884667</data>
+      <data key="d6">-73.90087</data>
+    </node>
+    <node id="104">
+      <data key="d0">Bx</data>
+      <data key="d1">2919305</data>
+      <data key="d2">1289691</data>
+      <data key="d3">-1629614</data>
+      <data key="d4">231 St</data>
+      <data key="d5">40.878856</data>
+      <data key="d6">-73.904834</data>
+    </node>
+    <node id="106">
+      <data key="d0">M</data>
+      <data key="d1">1561844</data>
+      <data key="d2">754010</data>
+      <data key="d3">-807834</data>
+      <data key="d4">Marble Hill-225 St</data>
+      <data key="d5">40.874561</data>
+      <data key="d6">-73.909831</data>
+    </node>
+    <node id="107">
+      <data key="d0">M</data>
+      <data key="d1">527505</data>
+      <data key="d2">212402</data>
+      <data key="d3">-315103</data>
+      <data key="d4">215 St</data>
+      <data key="d5">40.869444</data>
+      <data key="d6">-73.915279</data>
+    </node>
+    <node id="108">
+      <data key="d0">M</data>
+      <data key="d1">1853146</data>
+      <data key="d2">892067</data>
+      <data key="d3">-961079</data>
+      <data key="d4">207 St</data>
+      <data key="d5">40.864621</data>
+      <data key="d6">-73.918822</data>
+    </node>
+    <node id="LINK_109">
+      <data key="d0">M</data>
+      <data key="d1">2079656</data>
+      <data key="d2">1055222</data>
+      <data key="d3">-1024434</data>
+      <data key="d4">Dyckman St</data>
+      <data key="d5">40.860531</data>
+      <data key="d6">-73.925536</data>
+    </node>
+    <node id="110">
+      <data key="d0">M</data>
+      <data key="d1">2333160</data>
+      <data key="d2">453577</data>
+      <data key="d3">-1879583</data>
+      <data key="d4">191 St</data>
+      <data key="d5">40.855225</data>
+      <data key="d6">-73.929412</data>
+    </node>
+    <node id="LINK_111">
+      <data key="d0">M</data>
+      <data key="d1">3523536</data>
+      <data key="d2">1682772</data>
+      <data key="d3">-1840764</data>
+      <data key="d4">181 St</data>
+      <data key="d5">40.849505</data>
+      <data key="d6">-73.933596</data>
+    </node>
+    <node id="LINK_112">
+      <data key="d0">M</data>
+      <data key="d1">6156288</data>
+      <data key="d2">3265733</data>
+      <data key="d3">-2890555</data>
+      <data key="d4">168 St-Washington Hts</data>
+      <data key="d5">40.840556</data>
+      <data key="d6">-73.940133</data>
+    </node>
+    <node id="113">
+      <data key="d0">M</data>
+      <data key="d1">3739786</data>
+      <data key="d2">1414356</data>
+      <data key="d3">-2325430</data>
+      <data key="d4">157 St</data>
+      <data key="d5">40.834041</data>
+      <data key="d6">-73.94489</data>
+    </node>
+    <node id="114">
+      <data key="d0">M</data>
+      <data key="d1">2936613</data>
+      <data key="d2">1264852</data>
+      <data key="d3">-1671761</data>
+      <data key="d4">145 St</data>
+      <data key="d5">40.826551</data>
+      <data key="d6">-73.95036</data>
+    </node>
+    <node id="115">
+      <data key="d0">M</data>
+      <data key="d1">3874783</data>
+      <data key="d2">1717440</data>
+      <data key="d3">-2157343</data>
+      <data key="d4">137 St-City College</data>
+      <data key="d5">40.822008</data>
+      <data key="d6">-73.953676</data>
+    </node>
+    <node id="116">
+      <data key="d0">M</data>
+      <data key="d1">2368025</data>
+      <data key="d2">967478</data>
+      <data key="d3">-1400547</data>
+      <data key="d4">125 St</data>
+      <data key="d5">40.815581</data>
+      <data key="d6">-73.958372</data>
+    </node>
+    <node id="117">
+      <data key="d0">M</data>
+      <data key="d1">4380469</data>
+      <data key="d2">1316284</data>
+      <data key="d3">-3064185</data>
+      <data key="d4">116 St-Columbia University</data>
+      <data key="d5">40.807722</data>
+      <data key="d6">-73.96411</data>
+    </node>
+    <node id="118">
+      <data key="d0">M</data>
+      <data key="d1">3703893</data>
+      <data key="d2">1433586</data>
+      <data key="d3">-2270307</data>
+      <data key="d4">Cathedral Pkwy (110 St)</data>
+      <data key="d5">40.803967</data>
+      <data key="d6">-73.966847</data>
+    </node>
+    <node id="119">
+      <data key="d0">M</data>
+      <data key="d1">3766055</data>
+      <data key="d2">1470254</data>
+      <data key="d3">-2295801</data>
+      <data key="d4">103 St</data>
+      <data key="d5">40.799446</data>
+      <data key="d6">-73.968379</data>
+    </node>
+    <node id="120">
+      <data key="d0">M</data>
+      <data key="d1">11628887</data>
+      <data key="d2">4293386</data>
+      <data key="d3">-7335501</data>
+      <data key="d4">96 St</data>
+      <data key="d5">40.793919</data>
+      <data key="d6">-73.972323</data>
+    </node>
+    <node id="121">
+      <data key="d0">M</data>
+      <data key="d1">5659795</data>
+      <data key="d2">2076862</data>
+      <data key="d3">-3582933</data>
+      <data key="d4">86 St</data>
+      <data key="d5">40.788644</data>
+      <data key="d6">-73.976218</data>
+    </node>
+    <node id="122">
+      <data key="d0">M</data>
+      <data key="d1">4745863</data>
+      <data key="d2">1678293</data>
+      <data key="d3">-3067570</data>
+      <data key="d4">79 St</data>
+      <data key="d5">40.783934</data>
+      <data key="d6">-73.979917</data>
+    </node>
+    <node id="123">
+      <data key="d0">M</data>
+      <data key="d1">12379560</data>
+      <data key="d2">4498641</data>
+      <data key="d3">-7880919</data>
+      <data key="d4">72 St</data>
+      <data key="d5">40.778453</data>
+      <data key="d6">-73.98197</data>
+    </node>
+    <node id="124">
+      <data key="d0">M</data>
+      <data key="d1">7068256</data>
+      <data key="d2">2141714</data>
+      <data key="d3">-4926542</data>
+      <data key="d4">66 St-Lincoln Center</data>
+      <data key="d5">40.77344</data>
+      <data key="d6">-73.982209</data>
+    </node>
+    <node id="LINK_125">
+      <data key="d0">M</data>
+      <data key="d1">23040650</data>
+      <data key="d2">7618925</data>
+      <data key="d3">-15421725</data>
+      <data key="d4">59 St-Columbus Circle</data>
+      <data key="d5">40.768247</data>
+      <data key="d6">-73.981929</data>
+    </node>
+    <node id="126">
+      <data key="d0">M</data>
+      <data key="d1">8134360</data>
+      <data key="d2">2213137</data>
+      <data key="d3">-5921223</data>
+      <data key="d4">50 St</data>
+      <data key="d5">40.761728</data>
+      <data key="d6">-73.983849</data>
+    </node>
+    <node id="LINK_127">
+      <data key="d0">M</data>
+      <data key="d1">65020294</data>
+      <data key="d2">20341240</data>
+      <data key="d3">-44679054</data>
+      <data key="d4">Times Sq-42 St</data>
+      <data key="d5">40.75529</data>
+      <data key="d6">-73.987495</data>
+    </node>
+    <node id="128">
+      <data key="d0">M</data>
+      <data key="d1">25967676</data>
+      <data key="d2">8103809</data>
+      <data key="d3">-17863867</data>
+      <data key="d4">34 St-Penn Station</data>
+      <data key="d5">40.750373</data>
+      <data key="d6">-73.991057</data>
+    </node>
+    <node id="129">
+      <data key="d0">M</data>
+      <data key="d1">4493352</data>
+      <data key="d2">1367598</data>
+      <data key="d3">-3125754</data>
+      <data key="d4">28 St</data>
+      <data key="d5">40.747215</data>
+      <data key="d6">-73.993365</data>
+    </node>
+    <node id="130">
+      <data key="d0">M</data>
+      <data key="d1">4627755</data>
+      <data key="d2">1566363</data>
+      <data key="d3">-3061392</data>
+      <data key="d4">23 St</data>
+      <data key="d5">40.744081</data>
+      <data key="d6">-73.995657</data>
+    </node>
+    <node id="131">
+      <data key="d0">M</data>
+      <data key="d1">2649616</data>
+      <data key="d2">803924</data>
+      <data key="d3">-1845692</data>
+      <data key="d4">18 St</data>
+      <data key="d5">40.74104</data>
+      <data key="d6">-73.997871</data>
+    </node>
+    <node id="LINK_132">
+      <data key="d0">M</data>
+      <data key="d1">14736035</data>
+      <data key="d2">5057029</data>
+      <data key="d3">-9679006</data>
+      <data key="d4">14 St</data>
+      <data key="d5">40.737826</data>
+      <data key="d6">-74.000201</data>
+    </node>
+    <node id="133">
+      <data key="d0">M</data>
+      <data key="d1">3412332</data>
+      <data key="d2">1067635</data>
+      <data key="d3">-2344697</data>
+      <data key="d4">Christopher St-Sheridan Sq</data>
+      <data key="d5">40.733422</data>
+      <data key="d6">-74.002906</data>
+    </node>
+    <node id="134">
+      <data key="d0">M</data>
+      <data key="d1">4496793</data>
+      <data key="d2">1378640</data>
+      <data key="d3">-3118153</data>
+      <data key="d4">Houston St</data>
+      <data key="d5">40.728251</data>
+      <data key="d6">-74.005367</data>
+    </node>
+    <node id="135">
+      <data key="d0">M</data>
+      <data key="d1">1984827</data>
+      <data key="d2">560302</data>
+      <data key="d3">-1424525</data>
+      <data key="d4">Canal St</data>
+      <data key="d5">40.722854</data>
+      <data key="d6">-74.006277</data>
+    </node>
+    <node id="136">
+      <data key="d0">M</data>
+      <data key="d1">1567005</data>
+      <data key="d2">501136</data>
+      <data key="d3">-1065869</data>
+      <data key="d4">Franklin St</data>
+      <data key="d5">40.719318</data>
+      <data key="d6">-74.006886</data>
+    </node>
+    <node id="137">
+      <data key="d0">M</data>
+      <data key="d1">5941546</data>
+      <data key="d2">1781685</data>
+      <data key="d3">-4159861</data>
+      <data key="d4">Chambers St</data>
+      <data key="d5">40.715478</data>
+      <data key="d6">-74.009266</data>
+    </node>
+    <node id="138">
+      <data key="d0">M</data>
+      <data key="d1">4232521</data>
+      <data key="d2">1138815</data>
+      <data key="d3">-3093706</data>
+      <data key="d4">WTC Cortlandt</data>
+      <data key="d5">40.711835</data>
+      <data key="d6">-74.012188</data>
+    </node>
+    <node id="139">
+      <data key="d0">M</data>
+      <data key="d1">2554523</data>
+      <data key="d2">708206</data>
+      <data key="d3">-1846317</data>
+      <data key="d4">Rector St</data>
+      <data key="d5">40.707513</data>
+      <data key="d6">-74.013783</data>
+    </node>
+    <node id="LINK_142">
+      <data key="d0">M</data>
+      <data key="d1">10272682</data>
+      <data key="d2">3065053</data>
+      <data key="d3">-7207629</data>
+      <data key="d4">South Ferry</data>
+      <data key="d5">40.702068</data>
+      <data key="d6">-74.013664</data>
+    </node>
+    <node id="201">
+      <data key="d0">Bx</data>
+      <data key="d1">1404748</data>
+      <data key="d2">711029</data>
+      <data key="d3">-693719</data>
+      <data key="d4">Wakefield-241 St</data>
+      <data key="d5">40.903125</data>
+      <data key="d6">-73.85062</data>
+    </node>
+    <node id="204">
+      <data key="d0">Bx</data>
+      <data key="d1">1006617</data>
+      <data key="d2">470230</data>
+      <data key="d3">-536387</data>
+      <data key="d4">Nereid Av</data>
+      <data key="d5">40.898379</data>
+      <data key="d6">-73.854376</data>
+    </node>
+    <node id="205">
+      <data key="d0">Bx</data>
+      <data key="d1">1445532</data>
+      <data key="d2">721495</data>
+      <data key="d3">-724037</data>
+      <data key="d4">233 St</data>
+      <data key="d5">40.893193</data>
+      <data key="d6">-73.857473</data>
+    </node>
+    <node id="206">
+      <data key="d0">Bx</data>
+      <data key="d1">1187486</data>
+      <data key="d2">549296</data>
+      <data key="d3">-638190</data>
+      <data key="d4">225 St</data>
+      <data key="d5">40.888022</data>
+      <data key="d6">-73.860341</data>
+    </node>
+    <node id="207">
+      <data key="d0">Bx</data>
+      <data key="d1">979390</data>
+      <data key="d2">457388</data>
+      <data key="d3">-522002</data>
+      <data key="d4">219 St</data>
+      <data key="d5">40.883895</data>
+      <data key="d6">-73.862633</data>
+    </node>
+    <node id="LINK_208">
+      <data key="d0">Bx</data>
+      <data key="d1">2271942</data>
+      <data key="d2">1012373</data>
+      <data key="d3">-1259569</data>
+      <data key="d4">Gun Hill Rd</data>
+      <data key="d5">40.87785</data>
+      <data key="d6">-73.866256</data>
+    </node>
+    <node id="209">
+      <data key="d0">Bx</data>
+      <data key="d1">1000896</data>
+      <data key="d2">480152</data>
+      <data key="d3">-520744</data>
+      <data key="d4">Burke Av</data>
+      <data key="d5">40.871356</data>
+      <data key="d6">-73.867164</data>
+    </node>
+    <node id="210">
+      <data key="d0">Bx</data>
+      <data key="d1">1614464</data>
+      <data key="d2">760068</data>
+      <data key="d3">-854396</data>
+      <data key="d4">Allerton Av</data>
+      <data key="d5">40.865462</data>
+      <data key="d6">-73.867352</data>
+    </node>
+    <node id="LINK_211">
+      <data key="d0">Bx</data>
+      <data key="d1">2651208</data>
+      <data key="d2">1222206</data>
+      <data key="d3">-1429002</data>
+      <data key="d4">Pelham Pkwy</data>
+      <data key="d5">40.857192</data>
+      <data key="d6">-73.867615</data>
+    </node>
+    <node id="212">
+      <data key="d0">Bx</data>
+      <data key="d1">769303</data>
+      <data key="d2">354016</data>
+      <data key="d3">-415287</data>
+      <data key="d4">Bronx Park East</data>
+      <data key="d5">40.848828</data>
+      <data key="d6">-73.868457</data>
+    </node>
+    <node id="213">
+      <data key="d0">Bx</data>
+      <data key="d1">2211198</data>
+      <data key="d2">1142139</data>
+      <data key="d3">-1069059</data>
+      <data key="d4">E 180 St</data>
+      <data key="d5">40.841894</data>
+      <data key="d6">-73.873488</data>
+    </node>
+    <node id="214">
+      <data key="d0">Bx</data>
+      <data key="d1">2104945</data>
+      <data key="d2">947252</data>
+      <data key="d3">-1157693</data>
+      <data key="d4">West Farms Sq-E Tremont Av</data>
+      <data key="d5">40.840295</data>
+      <data key="d6">-73.880049</data>
+    </node>
+    <node id="215">
+      <data key="d0">Bx</data>
+      <data key="d1">2057118</data>
+      <data key="d2">953564</data>
+      <data key="d3">-1103554</data>
+      <data key="d4">174 St</data>
+      <data key="d5">40.837288</data>
+      <data key="d6">-73.887734</data>
+    </node>
+    <node id="216">
+      <data key="d0">Bx</data>
+      <data key="d1">1358821</data>
+      <data key="d2">642087</data>
+      <data key="d3">-716734</data>
+      <data key="d4">Freeman St</data>
+      <data key="d5">40.829993</data>
+      <data key="d6">-73.891865</data>
+    </node>
+    <node id="217">
+      <data key="d0">Bx</data>
+      <data key="d1">2602749</data>
+      <data key="d2">1230833</data>
+      <data key="d3">-1371916</data>
+      <data key="d4">Simpson St</data>
+      <data key="d5">40.824073</data>
+      <data key="d6">-73.893064</data>
+    </node>
+    <node id="218">
+      <data key="d0">Bx</data>
+      <data key="d1">964689</data>
+      <data key="d2">472958</data>
+      <data key="d3">-491731</data>
+      <data key="d4">Intervale Av</data>
+      <data key="d5">40.822181</data>
+      <data key="d6">-73.896736</data>
+    </node>
+    <node id="219">
+      <data key="d0">Bx</data>
+      <data key="d1">2148059</data>
+      <data key="d2">1021781</data>
+      <data key="d3">-1126278</data>
+      <data key="d4">Prospect Av</data>
+      <data key="d5">40.819585</data>
+      <data key="d6">-73.90177</data>
+    </node>
+    <node id="220">
+      <data key="d0">Bx</data>
+      <data key="d1">1584727</data>
+      <data key="d2">740308</data>
+      <data key="d3">-844419</data>
+      <data key="d4">Jackson Av</data>
+      <data key="d5">40.81649</data>
+      <data key="d6">-73.907807</data>
+    </node>
+    <node id="221">
+      <data key="d0">Bx</data>
+      <data key="d1">6768255</data>
+      <data key="d2">3166766</data>
+      <data key="d3">-3601489</data>
+      <data key="d4">3 Av-149 St</data>
+      <data key="d5">40.816109</data>
+      <data key="d6">-73.917757</data>
+    </node>
+    <node id="LINK_222">
+      <data key="d0">Bx</data>
+      <data key="d1">3931908</data>
+      <data key="d2">1815785</data>
+      <data key="d3">-2116123</data>
+      <data key="d4">149 St-Grand Concourse</data>
+      <data key="d5">40.81841</data>
+      <data key="d6">-73.926718</data>
+    </node>
+    <node id="224">
+      <data key="d0">M</data>
+      <data key="d1">4268823</data>
+      <data key="d2">1867402</data>
+      <data key="d3">-2401421</data>
+      <data key="d4">135 St</data>
+      <data key="d5">40.814229</data>
+      <data key="d6">-73.94077</data>
+    </node>
+    <node id="225">
+      <data key="d0">M</data>
+      <data key="d1">4644262</data>
+      <data key="d2">1848803</data>
+      <data key="d3">-2795459</data>
+      <data key="d4">125 St</data>
+      <data key="d5">40.807754</data>
+      <data key="d6">-73.945495</data>
+    </node>
+    <node id="226">
+      <data key="d0">M</data>
+      <data key="d1">3345661</data>
+      <data key="d2">1375593</data>
+      <data key="d3">-1970068</data>
+      <data key="d4">116 St</data>
+      <data key="d5">40.802098</data>
+      <data key="d6">-73.949625</data>
+    </node>
+    <node id="227">
+      <data key="d0">M</data>
+      <data key="d1">2666985</data>
+      <data key="d2">1060348</data>
+      <data key="d3">-1606637</data>
+      <data key="d4">Central Park North (110 St)</data>
+      <data key="d5">40.799075</data>
+      <data key="d6">-73.951822</data>
+    </node>
+    <node id="LINK_317">
+      <data key="d0">M</data>
+      <data key="d1">20820549</data>
+      <data key="d2">5930847</data>
+      <data key="d3">-14889702</data>
+      <data key="d4">Park Place</data>
+      <data key="d5">40.713051</data>
+      <data key="d6">-74.008811</data>
+    </node>
+    <node id="LINK_229">
+      <data key="d0">M</data>
+      <data key="d1">27715365</data>
+      <data key="d2">8855302</data>
+      <data key="d3">-18860063</data>
+      <data key="d4">Fulton St</data>
+      <data key="d5">40.709416</data>
+      <data key="d6">-74.006571</data>
+    </node>
+    <node id="230">
+      <data key="d0">M</data>
+      <data key="d1">6910581</data>
+      <data key="d2">2029161</data>
+      <data key="d3">-4881420</data>
+      <data key="d4">Wall St</data>
+      <data key="d5">40.706821</data>
+      <data key="d6">-74.0091</data>
+    </node>
+    <node id="231">
+      <data key="d0">B</data>
+      <data key="d1">1781419</data>
+      <data key="d2">589682</data>
+      <data key="d3">-1191737</data>
+      <data key="d4">Clark St</data>
+      <data key="d5">40.697466</data>
+      <data key="d6">-73.993086</data>
+    </node>
+    <node id="LINK_232">
+      <data key="d0">B</data>
+      <data key="d1">10135722</data>
+      <data key="d2">3356706</data>
+      <data key="d3">-6779016</data>
+      <data key="d4">Borough Hall</data>
+      <data key="d5">40.693219</data>
+      <data key="d6">-73.989998</data>
+    </node>
+    <node id="233">
+      <data key="d0">B</data>
+      <data key="d1">2293256</data>
+      <data key="d2">898643</data>
+      <data key="d3">-1394613</data>
+      <data key="d4">Hoyt St</data>
+      <data key="d5">40.690545</data>
+      <data key="d6">-73.985065</data>
+    </node>
+    <node id="234">
+      <data key="d0">B</data>
+      <data key="d1">3150597</data>
+      <data key="d2">1189273</data>
+      <data key="d3">-1961324</data>
+      <data key="d4">Nevins St</data>
+      <data key="d5">40.688246</data>
+      <data key="d6">-73.980492</data>
+    </node>
+    <node id="LINK_235">
+      <data key="d0">B</data>
+      <data key="d1">13939794</data>
+      <data key="d2">5474265</data>
+      <data key="d3">-8465529</data>
+      <data key="d4">Atlantic Av-Barclays Ctr</data>
+      <data key="d5">40.684359</data>
+      <data key="d6">-73.977666</data>
+    </node>
+    <node id="236">
+      <data key="d0">B</data>
+      <data key="d1">1208319</data>
+      <data key="d2">435520</data>
+      <data key="d3">-772799</data>
+      <data key="d4">Bergen St</data>
+      <data key="d5">40.680829</data>
+      <data key="d6">-73.975098</data>
+    </node>
+    <node id="237">
+      <data key="d0">B</data>
+      <data key="d1">2295401</data>
+      <data key="d2">813305</data>
+      <data key="d3">-1482096</data>
+      <data key="d4">Grand Army Plaza</data>
+      <data key="d5">40.675235</data>
+      <data key="d6">-73.971046</data>
+    </node>
+    <node id="238">
+      <data key="d0">B</data>
+      <data key="d1">1338351</data>
+      <data key="d2">441688</data>
+      <data key="d3">-896663</data>
+      <data key="d4">Eastern Pkwy-Brooklyn Museum</data>
+      <data key="d5">40.671987</data>
+      <data key="d6">-73.964375</data>
+    </node>
+    <node id="LINK_239">
+      <data key="d0">B</data>
+      <data key="d1">4999385</data>
+      <data key="d2">1849090</data>
+      <data key="d3">-3150295</data>
+      <data key="d4">Franklin Av-Medgar Evers College</data>
+      <data key="d5">40.670682</data>
+      <data key="d6">-73.958131</data>
+    </node>
+    <node id="241">
+      <data key="d0">B</data>
+      <data key="d1">1037219</data>
+      <data key="d2">443229</data>
+      <data key="d3">-593990</data>
+      <data key="d4">President St-Medgar Evers College</data>
+      <data key="d5">40.667883</data>
+      <data key="d6">-73.950683</data>
+    </node>
+    <node id="242">
+      <data key="d0">B</data>
+      <data key="d1">1654809</data>
+      <data key="d2">745895</data>
+      <data key="d3">-908914</data>
+      <data key="d4">Sterling St</data>
+      <data key="d5">40.662742</data>
+      <data key="d6">-73.95085</data>
+    </node>
+    <node id="243">
+      <data key="d0">B</data>
+      <data key="d1">1882065</data>
+      <data key="d2">974253</data>
+      <data key="d3">-907812</data>
+      <data key="d4">Winthrop St</data>
+      <data key="d5">40.656652</data>
+      <data key="d6">-73.9502</data>
+    </node>
+    <node id="244">
+      <data key="d0">B</data>
+      <data key="d1">2862033</data>
+      <data key="d2">1335645</data>
+      <data key="d3">-1526388</data>
+      <data key="d4">Church Av</data>
+      <data key="d5">40.650843</data>
+      <data key="d6">-73.949575</data>
+    </node>
+    <node id="245">
+      <data key="d0">B</data>
+      <data key="d1">1284232</data>
+      <data key="d2">607427</data>
+      <data key="d3">-676805</data>
+      <data key="d4">Beverly Rd</data>
+      <data key="d5">40.645098</data>
+      <data key="d6">-73.948959</data>
+    </node>
+    <node id="246">
+      <data key="d0">B</data>
+      <data key="d1">2131839</data>
+      <data key="d2">1021789</data>
+      <data key="d3">-1110050</data>
+      <data key="d4">Newkirk Av-Little Haiti</data>
+      <data key="d5">40.639967</data>
+      <data key="d6">-73.948411</data>
+    </node>
+    <node id="247">
+      <data key="d0">B</data>
+      <data key="d1">5684108</data>
+      <data key="d2">2404776</data>
+      <data key="d3">-3279332</data>
+      <data key="d4">Flatbush Av-Brooklyn College</data>
+      <data key="d5">40.632836</data>
+      <data key="d6">-73.947642</data>
+    </node>
+    <node id="248">
+      <data key="d0">B</data>
+      <data key="d1">1370372</data>
+      <data key="d2">512753</data>
+      <data key="d3">-857619</data>
+      <data key="d4">Nostrand Av</data>
+      <data key="d5">40.669847</data>
+      <data key="d6">-73.950466</data>
+    </node>
+    <node id="249">
+      <data key="d0">B</data>
+      <data key="d1">1472802</data>
+      <data key="d2">620880</data>
+      <data key="d3">-851922</data>
+      <data key="d4">Kingston Av</data>
+      <data key="d5">40.669399</data>
+      <data key="d6">-73.942161</data>
+    </node>
+    <node id="250">
+      <data key="d0">B</data>
+      <data key="d1">7933008</data>
+      <data key="d2">3654953</data>
+      <data key="d3">-4278055</data>
+      <data key="d4">Crown Hts-Utica Av</data>
+      <data key="d5">40.668897</data>
+      <data key="d6">-73.932942</data>
+    </node>
+    <node id="251">
+      <data key="d0">B</data>
+      <data key="d1">2019485</data>
+      <data key="d2">995590</data>
+      <data key="d3">-1023895</data>
+      <data key="d4">Sutter Av-Rutland Rd</data>
+      <data key="d5">40.664717</data>
+      <data key="d6">-73.92261</data>
+    </node>
+    <node id="252">
+      <data key="d0">B</data>
+      <data key="d1">1556357</data>
+      <data key="d2">786160</data>
+      <data key="d3">-770197</data>
+      <data key="d4">Saratoga Av</data>
+      <data key="d5">40.661453</data>
+      <data key="d6">-73.916327</data>
+    </node>
+    <node id="253">
+      <data key="d0">B</data>
+      <data key="d1">1451431</data>
+      <data key="d2">722986</data>
+      <data key="d3">-728445</data>
+      <data key="d4">Rockaway Av</data>
+      <data key="d5">40.662549</data>
+      <data key="d6">-73.908946</data>
+    </node>
+    <node id="254">
+      <data key="d0">B</data>
+      <data key="d1">676092</data>
+      <data key="d2">346436</data>
+      <data key="d3">-329656</data>
+      <data key="d4">Junius St</data>
+      <data key="d5">40.663515</data>
+      <data key="d6">-73.902447</data>
+    </node>
+    <node id="255">
+      <data key="d0">B</data>
+      <data key="d1">1360708</data>
+      <data key="d2">662596</data>
+      <data key="d3">-698112</data>
+      <data key="d4">Pennsylvania Av</data>
+      <data key="d5">40.664635</data>
+      <data key="d6">-73.894895</data>
+    </node>
+    <node id="256">
+      <data key="d0">B</data>
+      <data key="d1">853106</data>
+      <data key="d2">413650</data>
+      <data key="d3">-439456</data>
+      <data key="d4">Van Siclen Av</data>
+      <data key="d5">40.665449</data>
+      <data key="d6">-73.889395</data>
+    </node>
+    <node id="257">
+      <data key="d0">B</data>
+      <data key="d1">1643487</data>
+      <data key="d2">800943</data>
+      <data key="d3">-842544</data>
+      <data key="d4">New Lots Av</data>
+      <data key="d5">40.666235</data>
+      <data key="d6">-73.884079</data>
+    </node>
+    <node id="301">
+      <data key="d0">M</data>
+      <data key="d1">1120454</data>
+      <data key="d2">473937</data>
+      <data key="d3">-646517</data>
+      <data key="d4">Harlem-148 St</data>
+      <data key="d5">40.82388</data>
+      <data key="d6">-73.93647</data>
+    </node>
+    <node id="302">
+      <data key="d0">M</data>
+      <data key="d1">954825</data>
+      <data key="d2">438388</data>
+      <data key="d3">-516437</data>
+      <data key="d4">145 St</data>
+      <data key="d5">40.820421</data>
+      <data key="d6">-73.936245</data>
+    </node>
+    <node id="401">
+      <data key="d0">Bx</data>
+      <data key="d1">2094285</data>
+      <data key="d2">949554</data>
+      <data key="d3">-1144731</data>
+      <data key="d4">Woodlawn</data>
+      <data key="d5">40.886037</data>
+      <data key="d6">-73.878751</data>
+    </node>
+    <node id="402">
+      <data key="d0">Bx</data>
+      <data key="d1">2491758</data>
+      <data key="d2">1274467</data>
+      <data key="d3">-1217291</data>
+      <data key="d4">Mosholu Pkwy</data>
+      <data key="d5">40.87975</data>
+      <data key="d6">-73.884655</data>
+    </node>
+    <node id="405">
+      <data key="d0">Bx</data>
+      <data key="d1">1538253</data>
+      <data key="d2">691845</data>
+      <data key="d3">-846408</data>
+      <data key="d4">Bedford Park Blvd-Lehman College</data>
+      <data key="d5">40.873412</data>
+      <data key="d6">-73.890064</data>
+    </node>
+    <node id="406">
+      <data key="d0">Bx</data>
+      <data key="d1">2733096</data>
+      <data key="d2">1357273</data>
+      <data key="d3">-1375823</data>
+      <data key="d4">Kingsbridge Rd</data>
+      <data key="d5">40.86776</data>
+      <data key="d6">-73.897174</data>
+    </node>
+    <node id="407">
+      <data key="d0">Bx</data>
+      <data key="d1">3120976</data>
+      <data key="d2">1580225</data>
+      <data key="d3">-1540751</data>
+      <data key="d4">Fordham Rd</data>
+      <data key="d5">40.862803</data>
+      <data key="d6">-73.901034</data>
+    </node>
+    <node id="408">
+      <data key="d0">Bx</data>
+      <data key="d1">1779224</data>
+      <data key="d2">951634</data>
+      <data key="d3">-827590</data>
+      <data key="d4">183 St</data>
+      <data key="d5">40.858407</data>
+      <data key="d6">-73.903879</data>
+    </node>
+    <node id="409">
+      <data key="d0">Bx</data>
+      <data key="d1">3113514</data>
+      <data key="d2">1473081</data>
+      <data key="d3">-1640433</data>
+      <data key="d4">Burnside Av</data>
+      <data key="d5">40.853453</data>
+      <data key="d6">-73.907684</data>
+    </node>
+    <node id="410">
+      <data key="d0">Bx</data>
+      <data key="d1">1713696</data>
+      <data key="d2">876865</data>
+      <data key="d3">-836831</data>
+      <data key="d4">176 St</data>
+      <data key="d5">40.84848</data>
+      <data key="d6">-73.911794</data>
+    </node>
+    <node id="411">
+      <data key="d0">Bx</data>
+      <data key="d1">1551038</data>
+      <data key="d2">823443</data>
+      <data key="d3">-727595</data>
+      <data key="d4">Mt Eden Av</data>
+      <data key="d5">40.844434</data>
+      <data key="d6">-73.914685</data>
+    </node>
+    <node id="412">
+      <data key="d0">Bx</data>
+      <data key="d1">2487611</data>
+      <data key="d2">1265950</data>
+      <data key="d3">-1221661</data>
+      <data key="d4">170 St</data>
+      <data key="d5">40.840075</data>
+      <data key="d6">-73.917791</data>
+    </node>
+    <node id="413">
+      <data key="d0">Bx</data>
+      <data key="d1">2653237</data>
+      <data key="d2">1396287</data>
+      <data key="d3">-1256950</data>
+      <data key="d4">167 St</data>
+      <data key="d5">40.835537</data>
+      <data key="d6">-73.9214</data>
+    </node>
+    <node id="LINK_414">
+      <data key="d0">Bx</data>
+      <data key="d1">8254928</data>
+      <data key="d2">3221651</data>
+      <data key="d3">-5033277</data>
+      <data key="d4">161 St-Yankee Stadium</data>
+      <data key="d5">40.827994</data>
+      <data key="d6">-73.925831</data>
+    </node>
+    <node id="416">
+      <data key="d0">Bx</data>
+      <data key="d1">1035878</data>
+      <data key="d2">371408</data>
+      <data key="d3">-664470</data>
+      <data key="d4">138 St-Grand Concourse</data>
+      <data key="d5">40.813224</data>
+      <data key="d6">-73.929849</data>
+    </node>
+    <node id="419">
+      <data key="d0">M</data>
+      <data key="d1">5720475</data>
+      <data key="d2">1710383</data>
+      <data key="d3">-4010092</data>
+      <data key="d4">Wall St</data>
+      <data key="d5">40.707557</data>
+      <data key="d6">-74.011862</data>
+    </node>
+    <node id="420">
+      <data key="d0">M</data>
+      <data key="d1">8362034</data>
+      <data key="d2">2503222</data>
+      <data key="d3">-5858812</data>
+      <data key="d4">Bowling Green</data>
+      <data key="d5">40.704817</data>
+      <data key="d6">-74.014065</data>
+    </node>
+    <node id="501">
+      <data key="d0">Bx</data>
+      <data key="d1">1331886</data>
+      <data key="d2">631122</data>
+      <data key="d3">-700764</data>
+      <data key="d4">Eastchester-Dyre Av</data>
+      <data key="d5">40.8883</data>
+      <data key="d6">-73.830834</data>
+    </node>
+    <node id="502">
+      <data key="d0">Bx</data>
+      <data key="d1">1094872</data>
+      <data key="d2">491293</data>
+      <data key="d3">-603579</data>
+      <data key="d4">Baychester Av</data>
+      <data key="d5">40.878663</data>
+      <data key="d6">-73.838591</data>
+    </node>
+    <node id="505">
+      <data key="d0">Bx</data>
+      <data key="d1">711229</data>
+      <data key="d2">318988</data>
+      <data key="d3">-392241</data>
+      <data key="d4">Morris Park</data>
+      <data key="d5">40.854364</data>
+      <data key="d6">-73.860495</data>
+    </node>
+    <node id="601">
+      <data key="d0">Bx</data>
+      <data key="d1">2134403</data>
+      <data key="d2">951324</data>
+      <data key="d3">-1183079</data>
+      <data key="d4">Pelham Bay Park</data>
+      <data key="d5">40.852462</data>
+      <data key="d6">-73.828121</data>
+    </node>
+    <node id="602">
+      <data key="d0">Bx</data>
+      <data key="d1">1146032</data>
+      <data key="d2">519694</data>
+      <data key="d3">-626338</data>
+      <data key="d4">Buhre Av</data>
+      <data key="d5">40.84681</data>
+      <data key="d6">-73.832569</data>
+    </node>
+    <node id="603">
+      <data key="d0">Bx</data>
+      <data key="d1">597839</data>
+      <data key="d2">257912</data>
+      <data key="d3">-339927</data>
+      <data key="d4">Middletown Rd</data>
+      <data key="d5">40.843863</data>
+      <data key="d6">-73.836322</data>
+    </node>
+    <node id="604">
+      <data key="d0">Bx</data>
+      <data key="d1">1796415</data>
+      <data key="d2">835515</data>
+      <data key="d3">-960900</data>
+      <data key="d4">Westchester Sq-E Tremont Av</data>
+      <data key="d5">40.839892</data>
+      <data key="d6">-73.842952</data>
+    </node>
+    <node id="606">
+      <data key="d0">Bx</data>
+      <data key="d1">795756</data>
+      <data key="d2">361499</data>
+      <data key="d3">-434257</data>
+      <data key="d4">Zerega Av</data>
+      <data key="d5">40.836488</data>
+      <data key="d6">-73.847036</data>
+    </node>
+    <node id="607">
+      <data key="d0">Bx</data>
+      <data key="d1">1954511</data>
+      <data key="d2">947432</data>
+      <data key="d3">-1007079</data>
+      <data key="d4">Castle Hill Av</data>
+      <data key="d5">40.834255</data>
+      <data key="d6">-73.851222</data>
+    </node>
+    <node id="608">
+      <data key="d0">Bx</data>
+      <data key="d1">4734709</data>
+      <data key="d2">2205552</data>
+      <data key="d3">-2529157</data>
+      <data key="d4">Parkchester</data>
+      <data key="d5">40.833226</data>
+      <data key="d6">-73.860816</data>
+    </node>
+    <node id="609">
+      <data key="d0">Bx</data>
+      <data key="d1">1276865</data>
+      <data key="d2">641826</data>
+      <data key="d3">-635039</data>
+      <data key="d4">St Lawrence Av</data>
+      <data key="d5">40.831509</data>
+      <data key="d6">-73.867618</data>
+    </node>
+    <node id="610">
+      <data key="d0">Bx</data>
+      <data key="d1">1970185</data>
+      <data key="d2">1000610</data>
+      <data key="d3">-969575</data>
+      <data key="d4">Morrison Av-Soundview</data>
+      <data key="d5">40.829521</data>
+      <data key="d6">-73.874516</data>
+    </node>
+    <node id="611">
+      <data key="d0">Bx</data>
+      <data key="d1">1996492</data>
+      <data key="d2">1053012</data>
+      <data key="d3">-943480</data>
+      <data key="d4">Elder Av</data>
+      <data key="d5">40.828584</data>
+      <data key="d6">-73.879159</data>
+    </node>
+    <node id="612">
+      <data key="d0">Bx</data>
+      <data key="d1">586845</data>
+      <data key="d2">308198</data>
+      <data key="d3">-278647</data>
+      <data key="d4">Whitlock Av</data>
+      <data key="d5">40.826525</data>
+      <data key="d6">-73.886283</data>
+    </node>
+    <node id="613">
+      <data key="d0">Bx</data>
+      <data key="d1">3174354</data>
+      <data key="d2">1633812</data>
+      <data key="d3">-1540542</data>
+      <data key="d4">Hunts Point Av</data>
+      <data key="d5">40.820948</data>
+      <data key="d6">-73.890549</data>
+    </node>
+    <node id="614">
+      <data key="d0">Bx</data>
+      <data key="d1">949680</data>
+      <data key="d2">390165</data>
+      <data key="d3">-559515</data>
+      <data key="d4">Longwood Av</data>
+      <data key="d5">40.816104</data>
+      <data key="d6">-73.896435</data>
+    </node>
+    <node id="615">
+      <data key="d0">Bx</data>
+      <data key="d1">1467410</data>
+      <data key="d2">788235</data>
+      <data key="d3">-679175</data>
+      <data key="d4">E 149 St</data>
+      <data key="d5">40.812118</data>
+      <data key="d6">-73.904098</data>
+    </node>
+    <node id="616">
+      <data key="d0">Bx</data>
+      <data key="d1">313938</data>
+      <data key="d2">168285</data>
+      <data key="d3">-145653</data>
+      <data key="d4">E 143 St-St Mary's St</data>
+      <data key="d5">40.808719</data>
+      <data key="d6">-73.907657</data>
+    </node>
+    <node id="617">
+      <data key="d0">Bx</data>
+      <data key="d1">1043922</data>
+      <data key="d2">507795</data>
+      <data key="d3">-536127</data>
+      <data key="d4">Cypress Av</data>
+      <data key="d5">40.805368</data>
+      <data key="d6">-73.914042</data>
+    </node>
+    <node id="618">
+      <data key="d0">Bx</data>
+      <data key="d1">1823468</data>
+      <data key="d2">949904</data>
+      <data key="d3">-873564</data>
+      <data key="d4">Brook Av</data>
+      <data key="d5">40.807566</data>
+      <data key="d6">-73.91924</data>
+    </node>
+    <node id="619">
+      <data key="d0">Bx</data>
+      <data key="d1">2503850</data>
+      <data key="d2">1271192</data>
+      <data key="d3">-1232658</data>
+      <data key="d4">3 Av-138 St</data>
+      <data key="d5">40.810476</data>
+      <data key="d6">-73.926138</data>
+    </node>
+    <node id="621">
+      <data key="d0">M</data>
+      <data key="d1">8554857</data>
+      <data key="d2">3587673</data>
+      <data key="d3">-4967184</data>
+      <data key="d4">125 St</data>
+      <data key="d5">40.804138</data>
+      <data key="d6">-73.937594</data>
+    </node>
+    <node id="622">
+      <data key="d0">M</data>
+      <data key="d1">4572453</data>
+      <data key="d2">2052609</data>
+      <data key="d3">-2519844</data>
+      <data key="d4">116 St</data>
+      <data key="d5">40.798629</data>
+      <data key="d6">-73.941617</data>
+    </node>
+    <node id="623">
+      <data key="d0">M</data>
+      <data key="d1">3316061</data>
+      <data key="d2">1468770</data>
+      <data key="d3">-1847291</data>
+      <data key="d4">110 St</data>
+      <data key="d5">40.79502</data>
+      <data key="d6">-73.94425</data>
+    </node>
+    <node id="624">
+      <data key="d0">M</data>
+      <data key="d1">4039570</data>
+      <data key="d2">1851275</data>
+      <data key="d3">-2188295</data>
+      <data key="d4">103 St</data>
+      <data key="d5">40.7906</data>
+      <data key="d6">-73.947478</data>
+    </node>
+    <node id="625">
+      <data key="d0">M</data>
+      <data key="d1">5145222</data>
+      <data key="d2">2219217</data>
+      <data key="d3">-2926005</data>
+      <data key="d4">96 St</data>
+      <data key="d5">40.785672</data>
+      <data key="d6">-73.95107</data>
+    </node>
+    <node id="626">
+      <data key="d0">M</data>
+      <data key="d1">13537308</data>
+      <data key="d2">5155496</data>
+      <data key="d3">-8381812</data>
+      <data key="d4">86 St</data>
+      <data key="d5">40.779492</data>
+      <data key="d6">-73.955589</data>
+    </node>
+    <node id="627">
+      <data key="d0">M</data>
+      <data key="d1">7821286</data>
+      <data key="d2">3190550</data>
+      <data key="d3">-4630736</data>
+      <data key="d4">77 St</data>
+      <data key="d5">40.77362</data>
+      <data key="d6">-73.959874</data>
+    </node>
+    <node id="628">
+      <data key="d0">M</data>
+      <data key="d1">6699711</data>
+      <data key="d2">2511235</data>
+      <data key="d3">-4188476</data>
+      <data key="d4">68 St-Hunter College</data>
+      <data key="d5">40.768141</data>
+      <data key="d6">-73.96387</data>
+    </node>
+    <node id="LINK_629">
+      <data key="d0">M</data>
+      <data key="d1">16760813</data>
+      <data key="d2">6273480</data>
+      <data key="d3">-10487333</data>
+      <data key="d4">59 St</data>
+      <data key="d5">40.762526</data>
+      <data key="d6">-73.967967</data>
+    </node>
+    <node id="LINK_630">
+      <data key="d0">M</data>
+      <data key="d1">18957465</data>
+      <data key="d2">5718725</data>
+      <data key="d3">-13238740</data>
+      <data key="d4">51 St</data>
+      <data key="d5">40.757107</data>
+      <data key="d6">-73.97192</data>
+    </node>
+    <node id="LINK_326">
+      <data key="d0">M</data>
+      <data key="d1">45745700</data>
+      <data key="d2">13162826</data>
+      <data key="d3">-32582874</data>
+      <data key="d4">Grand Central-42 St</data>
+      <data key="d5">40.751776</data>
+      <data key="d6">-73.976848</data>
+    </node>
+    <node id="632">
+      <data key="d0">M</data>
+      <data key="d1">8934900</data>
+      <data key="d2">3078482</data>
+      <data key="d3">-5856418</data>
+      <data key="d4">33 St</data>
+      <data key="d5">40.746081</data>
+      <data key="d6">-73.982076</data>
+    </node>
+    <node id="633">
+      <data key="d0">M</data>
+      <data key="d1">5834989</data>
+      <data key="d2">2230478</data>
+      <data key="d3">-3604511</data>
+      <data key="d4">28 St</data>
+      <data key="d5">40.74307</data>
+      <data key="d6">-73.984264</data>
+    </node>
+    <node id="634">
+      <data key="d0">M</data>
+      <data key="d1">8659806</data>
+      <data key="d2">2677996</data>
+      <data key="d3">-5981810</data>
+      <data key="d4">23 St</data>
+      <data key="d5">40.739864</data>
+      <data key="d6">-73.986599</data>
+    </node>
+    <node id="LINK_635">
+      <data key="d0">M</data>
+      <data key="d1">32385260</data>
+      <data key="d2">10830712</data>
+      <data key="d3">-21554548</data>
+      <data key="d4">14 St-Union Sq</data>
+      <data key="d5">40.734673</data>
+      <data key="d6">-73.989951</data>
+    </node>
+    <node id="636">
+      <data key="d0">M</data>
+      <data key="d1">5502925</data>
+      <data key="d2">1684189</data>
+      <data key="d3">-3818736</data>
+      <data key="d4">Astor Pl</data>
+      <data key="d5">40.730054</data>
+      <data key="d6">-73.99107</data>
+    </node>
+    <node id="LINK_637">
+      <data key="d0">M</data>
+      <data key="d1">12455155</data>
+      <data key="d2">4062645</data>
+      <data key="d3">-8392510</data>
+      <data key="d4">Bleecker St</data>
+      <data key="d5">40.725915</data>
+      <data key="d6">-73.994659</data>
+    </node>
+    <node id="638">
+      <data key="d0">M</data>
+      <data key="d1">3754272</data>
+      <data key="d2">1123745</data>
+      <data key="d3">-2630527</data>
+      <data key="d4">Spring St</data>
+      <data key="d5">40.722301</data>
+      <data key="d6">-73.997141</data>
+    </node>
+    <node id="LINK_312">
+      <data key="d0">M</data>
+      <data key="d1">15861864</data>
+      <data key="d2">4881373</data>
+      <data key="d3">-10980491</data>
+      <data key="d4">Canal St</data>
+      <data key="d5">40.718803</data>
+      <data key="d6">-74.000193</data>
+    </node>
+    <node id="LINK_640">
+      <data key="d0">M</data>
+      <data key="d1">9065146</data>
+      <data key="d2">2710023</data>
+      <data key="d3">-6355123</data>
+      <data key="d4">Brooklyn Bridge-City Hall</data>
+      <data key="d5">40.713065</data>
+      <data key="d6">-74.004131</data>
+    </node>
+    <node id="701">
+      <data key="d0">Q</data>
+      <data key="d1">17568837</data>
+      <data key="d2">6944923</data>
+      <data key="d3">-10623914</data>
+      <data key="d4">Flushing-Main St</data>
+      <data key="d5">40.7596</data>
+      <data key="d6">-73.83003</data>
+    </node>
+    <node id="702">
+      <data key="d0">Q</data>
+      <data key="d1">2025162</data>
+      <data key="d2">311888</data>
+      <data key="d3">-1713274</data>
+      <data key="d4">Mets-Willets Point</data>
+      <data key="d5">40.754622</data>
+      <data key="d6">-73.845625</data>
+    </node>
+    <node id="705">
+      <data key="d0">Q</data>
+      <data key="d1">3836999</data>
+      <data key="d2">2119770</data>
+      <data key="d3">-1717229</data>
+      <data key="d4">111 St</data>
+      <data key="d5">40.75173</data>
+      <data key="d6">-73.855334</data>
+    </node>
+    <node id="706">
+      <data key="d0">Q</data>
+      <data key="d1">6399657</data>
+      <data key="d2">3311294</data>
+      <data key="d3">-3088363</data>
+      <data key="d4">103 St-Corona Plaza</data>
+      <data key="d5">40.749865</data>
+      <data key="d6">-73.8627</data>
+    </node>
+    <node id="707">
+      <data key="d0">Q</data>
+      <data key="d1">6883317</data>
+      <data key="d2">3622647</data>
+      <data key="d3">-3260670</data>
+      <data key="d4">Junction Blvd</data>
+      <data key="d5">40.749145</data>
+      <data key="d6">-73.869527</data>
+    </node>
+    <node id="708">
+      <data key="d0">Q</data>
+      <data key="d1">5272683</data>
+      <data key="d2">2661934</data>
+      <data key="d3">-2610749</data>
+      <data key="d4">90 St-Elmhurst Av</data>
+      <data key="d5">40.748408</data>
+      <data key="d6">-73.876613</data>
+    </node>
+    <node id="709">
+      <data key="d0">Q</data>
+      <data key="d1">4893865</data>
+      <data key="d2">2297896</data>
+      <data key="d3">-2595969</data>
+      <data key="d4">82 St-Jackson Hts</data>
+      <data key="d5">40.747659</data>
+      <data key="d6">-73.883697</data>
+    </node>
+    <node id="LINK_710">
+      <data key="d0">Q</data>
+      <data key="d1">17077862</data>
+      <data key="d2">7523538</data>
+      <data key="d3">-9554324</data>
+      <data key="d4">74 St-Broadway</data>
+      <data key="d5">40.746848</data>
+      <data key="d6">-73.891394</data>
+    </node>
+    <node id="711">
+      <data key="d0">Q</data>
+      <data key="d1">1564387</data>
+      <data key="d2">743488</data>
+      <data key="d3">-820899</data>
+      <data key="d4">69 St</data>
+      <data key="d5">40.746325</data>
+      <data key="d6">-73.896403</data>
+    </node>
+    <node id="712">
+      <data key="d0">Q</data>
+      <data key="d1">5345369</data>
+      <data key="d2">2391083</data>
+      <data key="d3">-2954286</data>
+      <data key="d4">61 St-Woodside</data>
+      <data key="d5">40.74563</data>
+      <data key="d6">-73.902984</data>
+    </node>
+    <node id="713">
+      <data key="d0">Q</data>
+      <data key="d1">1907368</data>
+      <data key="d2">847430</data>
+      <data key="d3">-1059938</data>
+      <data key="d4">52 St</data>
+      <data key="d5">40.744149</data>
+      <data key="d6">-73.912549</data>
+    </node>
+    <node id="714">
+      <data key="d0">Q</data>
+      <data key="d1">4019044</data>
+      <data key="d2">1769578</data>
+      <data key="d3">-2249466</data>
+      <data key="d4">46 St-Bliss St</data>
+      <data key="d5">40.743132</data>
+      <data key="d6">-73.918435</data>
+    </node>
+    <node id="715">
+      <data key="d0">Q</data>
+      <data key="d1">3074342</data>
+      <data key="d2">1236614</data>
+      <data key="d3">-1837728</data>
+      <data key="d4">40 St-Lowery St</data>
+      <data key="d5">40.743781</data>
+      <data key="d6">-73.924016</data>
+    </node>
+    <node id="716">
+      <data key="d0">Q</data>
+      <data key="d1">2907388</data>
+      <data key="d2">956400</data>
+      <data key="d3">-1950988</data>
+      <data key="d4">33 St-Rawson St</data>
+      <data key="d5">40.744587</data>
+      <data key="d6">-73.930997</data>
+    </node>
+    <node id="LINK_718">
+      <data key="d0">Q</data>
+      <data key="d1">5018211</data>
+      <data key="d2">1790223</data>
+      <data key="d3">-3227988</data>
+      <data key="d4">Queensboro Plaza</data>
+      <data key="d5">40.750582</data>
+      <data key="d6">-73.940202</data>
+    </node>
+    <node id="LINK_719">
+      <data key="d0">Q</data>
+      <data key="d1">7033377</data>
+      <data key="d2">2368959</data>
+      <data key="d3">-4664418</data>
+      <data key="d4">Court Sq</data>
+      <data key="d5">40.747023</data>
+      <data key="d6">-73.945264</data>
+    </node>
+    <node id="720">
+      <data key="d0">Q</data>
+      <data key="d1">1885928</data>
+      <data key="d2">705574</data>
+      <data key="d3">-1180354</data>
+      <data key="d4">Hunters Point Av</data>
+      <data key="d5">40.742216</data>
+      <data key="d6">-73.948916</data>
+    </node>
+    <node id="721">
+      <data key="d0">Q</data>
+      <data key="d1">4623070</data>
+      <data key="d2">1768317</data>
+      <data key="d3">-2854753</data>
+      <data key="d4">Vernon Blvd-Jackson Av</data>
+      <data key="d5">40.742626</data>
+      <data key="d6">-73.953581</data>
+    </node>
+    <node id="LINK_724">
+      <data key="d0">M</data>
+      <data key="d1">17213702</data>
+      <data key="d2">5405394</data>
+      <data key="d3">-11808308</data>
+      <data key="d4">5 Av</data>
+      <data key="d5">40.753821</data>
+      <data key="d6">-73.981963</data>
+    </node>
+    <node id="726">
+      <data key="d0">M</data>
+      <data key="d1">6108384</data>
+      <data key="d2">2092769</data>
+      <data key="d3">-4015615</data>
+      <data key="d4">34 St-Hudson Yards</data>
+      <data key="d5">40.755882</data>
+      <data key="d6">-74.00191</data>
+    </node>
+    <node id="A02">
+      <data key="d0">M</data>
+      <data key="d1">3150731</data>
+      <data key="d2">1260062</data>
+      <data key="d3">-1890669</data>
+      <data key="d4">Inwood-207 St</data>
+      <data key="d5">40.868072</data>
+      <data key="d6">-73.919899</data>
+    </node>
+    <node id="A05">
+      <data key="d0">M</data>
+      <data key="d1">1535450</data>
+      <data key="d2">562043</data>
+      <data key="d3">-973407</data>
+      <data key="d4">190 St</data>
+      <data key="d5">40.859022</data>
+      <data key="d6">-73.93418</data>
+    </node>
+    <node id="A07">
+      <data key="d0">M</data>
+      <data key="d1">4182625</data>
+      <data key="d2">1665946</data>
+      <data key="d3">-2516679</data>
+      <data key="d4">175 St</data>
+      <data key="d5">40.847391</data>
+      <data key="d6">-73.939704</data>
+    </node>
+    <node id="A10">
+      <data key="d0">M</data>
+      <data key="d1">1390312</data>
+      <data key="d2">617596</data>
+      <data key="d3">-772716</data>
+      <data key="d4">163 St-Amsterdam Av</data>
+      <data key="d5">40.836013</data>
+      <data key="d6">-73.939892</data>
+    </node>
+    <node id="A11">
+      <data key="d0">M</data>
+      <data key="d1">895036</data>
+      <data key="d2">367255</data>
+      <data key="d3">-527781</data>
+      <data key="d4">155 St</data>
+      <data key="d5">40.830518</data>
+      <data key="d6">-73.941514</data>
+    </node>
+    <node id="LINK_A12">
+      <data key="d0">M</data>
+      <data key="d1">7464653</data>
+      <data key="d2">3111334</data>
+      <data key="d3">-4353319</data>
+      <data key="d4">145 St</data>
+      <data key="d5">40.824783</data>
+      <data key="d6">-73.944216</data>
+    </node>
+    <node id="A14">
+      <data key="d0">M</data>
+      <data key="d1">1743921</data>
+      <data key="d2">667495</data>
+      <data key="d3">-1076426</data>
+      <data key="d4">135 St</data>
+      <data key="d5">40.817894</data>
+      <data key="d6">-73.947649</data>
+    </node>
+    <node id="A15">
+      <data key="d0">M</data>
+      <data key="d1">9208598</data>
+      <data key="d2">3863203</data>
+      <data key="d3">-5345395</data>
+      <data key="d4">125 St</data>
+      <data key="d5">40.811109</data>
+      <data key="d6">-73.952343</data>
+    </node>
+    <node id="A16">
+      <data key="d0">M</data>
+      <data key="d1">2288111</data>
+      <data key="d2">896442</data>
+      <data key="d3">-1391669</data>
+      <data key="d4">116 St</data>
+      <data key="d5">40.805085</data>
+      <data key="d6">-73.954882</data>
+    </node>
+    <node id="A17">
+      <data key="d0">M</data>
+      <data key="d1">2396624</data>
+      <data key="d2">934145</data>
+      <data key="d3">-1462479</data>
+      <data key="d4">Cathedral Pkwy (110 St)</data>
+      <data key="d5">40.800603</data>
+      <data key="d6">-73.958161</data>
+    </node>
+    <node id="A18">
+      <data key="d0">M</data>
+      <data key="d1">1498363</data>
+      <data key="d2">579191</data>
+      <data key="d3">-919172</data>
+      <data key="d4">103 St</data>
+      <data key="d5">40.796092</data>
+      <data key="d6">-73.961454</data>
+    </node>
+    <node id="A19">
+      <data key="d0">M</data>
+      <data key="d1">3038864</data>
+      <data key="d2">1194638</data>
+      <data key="d3">-1844226</data>
+      <data key="d4">96 St</data>
+      <data key="d5">40.791642</data>
+      <data key="d6">-73.964696</data>
+    </node>
+    <node id="A20">
+      <data key="d0">M</data>
+      <data key="d1">3232637</data>
+      <data key="d2">1188684</data>
+      <data key="d3">-2043953</data>
+      <data key="d4">86 St</data>
+      <data key="d5">40.785868</data>
+      <data key="d6">-73.968916</data>
+    </node>
+    <node id="A21">
+      <data key="d0">M</data>
+      <data key="d1">4407607</data>
+      <data key="d2">1275973</data>
+      <data key="d3">-3131634</data>
+      <data key="d4">81 St-Museum of Natural History</data>
+      <data key="d5">40.781433</data>
+      <data key="d6">-73.972143</data>
+    </node>
+    <node id="A22">
+      <data key="d0">M</data>
+      <data key="d1">2837041</data>
+      <data key="d2">935070</data>
+      <data key="d3">-1901971</data>
+      <data key="d4">72 St</data>
+      <data key="d5">40.775594</data>
+      <data key="d6">-73.97641</data>
+    </node>
+    <node id="A25">
+      <data key="d0">M</data>
+      <data key="d1">6902595</data>
+      <data key="d2">2002813</data>
+      <data key="d3">-4899782</data>
+      <data key="d4">50 St</data>
+      <data key="d5">40.762456</data>
+      <data key="d6">-73.985984</data>
+    </node>
+    <node id="A28">
+      <data key="d0">M</data>
+      <data key="d1">25631364</data>
+      <data key="d2">8010472</data>
+      <data key="d3">-17620892</data>
+      <data key="d4">34 St-Penn Station</data>
+      <data key="d5">40.752287</data>
+      <data key="d6">-73.993391</data>
+    </node>
+    <node id="A30">
+      <data key="d0">M</data>
+      <data key="d1">7272610</data>
+      <data key="d2">2341259</data>
+      <data key="d3">-4931351</data>
+      <data key="d4">23 St</data>
+      <data key="d5">40.745906</data>
+      <data key="d6">-73.998041</data>
+    </node>
+    <node id="LINK_A31">
+      <data key="d0">M</data>
+      <data key="d1">14239275</data>
+      <data key="d2">4463227</data>
+      <data key="d3">-9776048</data>
+      <data key="d4">14 St</data>
+      <data key="d5">40.740893</data>
+      <data key="d6">-74.00169</data>
+    </node>
+    <node id="LINK_A32">
+      <data key="d0">M</data>
+      <data key="d1">14063633</data>
+      <data key="d2">4503429</data>
+      <data key="d3">-9560204</data>
+      <data key="d4">W 4 St-Wash Sq</data>
+      <data key="d5">40.732338</data>
+      <data key="d6">-74.000495</data>
+    </node>
+    <node id="A33">
+      <data key="d0">M</data>
+      <data key="d1">4423135</data>
+      <data key="d2">1377863</data>
+      <data key="d3">-3045272</data>
+      <data key="d4">Spring St</data>
+      <data key="d5">40.726227</data>
+      <data key="d6">-74.003739</data>
+    </node>
+    <node id="A34">
+      <data key="d0">M</data>
+      <data key="d1">6403172</data>
+      <data key="d2">1965245</data>
+      <data key="d3">-4437927</data>
+      <data key="d4">Canal St</data>
+      <data key="d5">40.720824</data>
+      <data key="d6">-74.005229</data>
+    </node>
+    <node id="A40">
+      <data key="d0">B</data>
+      <data key="d1">3536860</data>
+      <data key="d2">1043554</data>
+      <data key="d3">-2493306</data>
+      <data key="d4">High St</data>
+      <data key="d5">40.699337</data>
+      <data key="d6">-73.990531</data>
+    </node>
+    <node id="LINK_A41">
+      <data key="d0">B</data>
+      <data key="d1">12238047</data>
+      <data key="d2">4048255</data>
+      <data key="d3">-8189792</data>
+      <data key="d4">Jay St-MetroTech</data>
+      <data key="d5">40.692338</data>
+      <data key="d6">-73.987342</data>
+    </node>
+    <node id="A42">
+      <data key="d0">B</data>
+      <data key="d1">3605153</data>
+      <data key="d2">1426671</data>
+      <data key="d3">-2178482</data>
+      <data key="d4">Hoyt-Schermerhorn Sts</data>
+      <data key="d5">40.688484</data>
+      <data key="d6">-73.985001</data>
+    </node>
+    <node id="A43">
+      <data key="d0">B</data>
+      <data key="d1">1599887</data>
+      <data key="d2">619691</data>
+      <data key="d3">-980196</data>
+      <data key="d4">Lafayette Av</data>
+      <data key="d5">40.686113</data>
+      <data key="d6">-73.973946</data>
+    </node>
+    <node id="A44">
+      <data key="d0">B</data>
+      <data key="d1">2144338</data>
+      <data key="d2">724726</data>
+      <data key="d3">-1419612</data>
+      <data key="d4">Clinton-Washington Avs</data>
+      <data key="d5">40.683263</data>
+      <data key="d6">-73.965838</data>
+    </node>
+    <node id="A45">
+      <data key="d0">B</data>
+      <data key="d1">1977940</data>
+      <data key="d2">781552</data>
+      <data key="d3">-1196388</data>
+      <data key="d4">Franklin Av</data>
+      <data key="d5">40.68138</data>
+      <data key="d6">-73.956848</data>
+    </node>
+    <node id="A46">
+      <data key="d0">B</data>
+      <data key="d1">5608232</data>
+      <data key="d2">2150476</data>
+      <data key="d3">-3457756</data>
+      <data key="d4">Nostrand Av</data>
+      <data key="d5">40.680438</data>
+      <data key="d6">-73.950426</data>
+    </node>
+    <node id="A47">
+      <data key="d0">B</data>
+      <data key="d1">2055094</data>
+      <data key="d2">791030</data>
+      <data key="d3">-1264064</data>
+      <data key="d4">Kingston-Throop Avs</data>
+      <data key="d5">40.679921</data>
+      <data key="d6">-73.940858</data>
+    </node>
+    <node id="A48">
+      <data key="d0">B</data>
+      <data key="d1">5106247</data>
+      <data key="d2">2085483</data>
+      <data key="d3">-3020764</data>
+      <data key="d4">Utica Av</data>
+      <data key="d5">40.679364</data>
+      <data key="d6">-73.930729</data>
+    </node>
+    <node id="A49">
+      <data key="d0">B</data>
+      <data key="d1">1829126</data>
+      <data key="d2">818101</data>
+      <data key="d3">-1011025</data>
+      <data key="d4">Ralph Av</data>
+      <data key="d5">40.678822</data>
+      <data key="d6">-73.920786</data>
+    </node>
+    <node id="A50">
+      <data key="d0">B</data>
+      <data key="d1">1787343</data>
+      <data key="d2">781385</data>
+      <data key="d3">-1005958</data>
+      <data key="d4">Rockaway Av</data>
+      <data key="d5">40.67834</data>
+      <data key="d6">-73.911946</data>
+    </node>
+    <node id="LINK_A51">
+      <data key="d0">B</data>
+      <data key="d1">2759349</data>
+      <data key="d2">1292868</data>
+      <data key="d3">-1466481</data>
+      <data key="d4">Broadway Junction</data>
+      <data key="d5">40.678334</data>
+      <data key="d6">-73.905316</data>
+    </node>
+    <node id="A52">
+      <data key="d0">B</data>
+      <data key="d1">833633</data>
+      <data key="d2">381652</data>
+      <data key="d3">-451981</data>
+      <data key="d4">Liberty Av</data>
+      <data key="d5">40.674542</data>
+      <data key="d6">-73.896548</data>
+    </node>
+    <node id="A53">
+      <data key="d0">B</data>
+      <data key="d1">918811</data>
+      <data key="d2">437290</data>
+      <data key="d3">-481521</data>
+      <data key="d4">Van Siclen Av</data>
+      <data key="d5">40.67271</data>
+      <data key="d6">-73.890358</data>
+    </node>
+    <node id="A54">
+      <data key="d0">B</data>
+      <data key="d1">977012</data>
+      <data key="d2">449144</data>
+      <data key="d3">-527868</data>
+      <data key="d4">Shepherd Av</data>
+      <data key="d5">40.67413</data>
+      <data key="d6">-73.88075</data>
+    </node>
+    <node id="A55">
+      <data key="d0">B</data>
+      <data key="d1">3240578</data>
+      <data key="d2">1537226</data>
+      <data key="d3">-1703352</data>
+      <data key="d4">Euclid Av</data>
+      <data key="d5">40.675377</data>
+      <data key="d6">-73.872106</data>
+    </node>
+    <node id="A57">
+      <data key="d0">B</data>
+      <data key="d1">1749932</data>
+      <data key="d2">802190</data>
+      <data key="d3">-947742</data>
+      <data key="d4">Grant Av</data>
+      <data key="d5">40.677044</data>
+      <data key="d6">-73.86505</data>
+    </node>
+    <node id="A59">
+      <data key="d0">Q</data>
+      <data key="d1">1298825</data>
+      <data key="d2">552808</data>
+      <data key="d3">-746017</data>
+      <data key="d4">80 St</data>
+      <data key="d5">40.679371</data>
+      <data key="d6">-73.858992</data>
+    </node>
+    <node id="A60">
+      <data key="d0">Q</data>
+      <data key="d1">853110</data>
+      <data key="d2">384745</data>
+      <data key="d3">-468365</data>
+      <data key="d4">88 St</data>
+      <data key="d5">40.679843</data>
+      <data key="d6">-73.85147</data>
+    </node>
+    <node id="A61">
+      <data key="d0">Q</data>
+      <data key="d1">2299903</data>
+      <data key="d2">1040869</data>
+      <data key="d3">-1259034</data>
+      <data key="d4">Rockaway Blvd</data>
+      <data key="d5">40.680429</data>
+      <data key="d6">-73.843853</data>
+    </node>
+    <node id="A63">
+      <data key="d0">Q</data>
+      <data key="d1">536924</data>
+      <data key="d2">243156</data>
+      <data key="d3">-293768</data>
+      <data key="d4">104 St</data>
+      <data key="d5">40.681711</data>
+      <data key="d6">-73.837683</data>
+    </node>
+    <node id="A64">
+      <data key="d0">Q</data>
+      <data key="d1">760163</data>
+      <data key="d2">339066</data>
+      <data key="d3">-421097</data>
+      <data key="d4">111 St</data>
+      <data key="d5">40.684331</data>
+      <data key="d6">-73.832163</data>
+    </node>
+    <node id="A65">
+      <data key="d0">Q</data>
+      <data key="d1">2216647</data>
+      <data key="d2">1019115</data>
+      <data key="d3">-1197532</data>
+      <data key="d4">Ozone Park-Lefferts Blvd</data>
+      <data key="d5">40.685951</data>
+      <data key="d6">-73.825798</data>
+    </node>
+    <node id="B04">
+      <data key="d0">Q</data>
+      <data key="d1">3516992</data>
+      <data key="d2">1355845</data>
+      <data key="d3">-2161147</data>
+      <data key="d4">21 St-Queensbridge</data>
+      <data key="d5">40.754203</data>
+      <data key="d6">-73.942836</data>
+    </node>
+    <node id="B06">
+      <data key="d0">M</data>
+      <data key="d1">2380764</data>
+      <data key="d2">893253</data>
+      <data key="d3">-1487511</data>
+      <data key="d4">Roosevelt Island</data>
+      <data key="d5">40.759145</data>
+      <data key="d6">-73.95326</data>
+    </node>
+    <node id="B08">
+      <data key="d0">M</data>
+      <data key="d1">6567634</data>
+      <data key="d2">2441527</data>
+      <data key="d3">-4126107</data>
+      <data key="d4">Lexington Av/63 St</data>
+      <data key="d5">40.764629</data>
+      <data key="d6">-73.966113</data>
+    </node>
+    <node id="B10">
+      <data key="d0">M</data>
+      <data key="d1">4550216</data>
+      <data key="d2">1491039</data>
+      <data key="d3">-3059177</data>
+      <data key="d4">57 St</data>
+      <data key="d5">40.763972</data>
+      <data key="d6">-73.97745</data>
+    </node>
+    <node id="B12">
+      <data key="d0">B</data>
+      <data key="d1">1708387</data>
+      <data key="d2">807970</data>
+      <data key="d3">-900417</data>
+      <data key="d4">9 Av</data>
+      <data key="d5">40.646292</data>
+      <data key="d6">-73.994324</data>
+    </node>
+    <node id="B13">
+      <data key="d0">B</data>
+      <data key="d1">1207971</data>
+      <data key="d2">614581</data>
+      <data key="d3">-593390</data>
+      <data key="d4">Fort Hamilton Pkwy</data>
+      <data key="d5">40.640914</data>
+      <data key="d6">-73.994304</data>
+    </node>
+    <node id="B14">
+      <data key="d0">B</data>
+      <data key="d1">976988</data>
+      <data key="d2">521944</data>
+      <data key="d3">-455044</data>
+      <data key="d4">50 St</data>
+      <data key="d5">40.63626</data>
+      <data key="d6">-73.994791</data>
+    </node>
+    <node id="B15">
+      <data key="d0">B</data>
+      <data key="d1">637405</data>
+      <data key="d2">330043</data>
+      <data key="d3">-307362</data>
+      <data key="d4">55 St</data>
+      <data key="d5">40.631435</data>
+      <data key="d6">-73.995476</data>
+    </node>
+    <node id="LINK_B16">
+      <data key="d0">B</data>
+      <data key="d1">1501183</data>
+      <data key="d2">718496</data>
+      <data key="d3">-782687</data>
+      <data key="d4">62 St</data>
+      <data key="d5">40.626472</data>
+      <data key="d6">-73.996895</data>
+    </node>
+    <node id="B17">
+      <data key="d0">B</data>
+      <data key="d1">1722921</data>
+      <data key="d2">721711</data>
+      <data key="d3">-1001210</data>
+      <data key="d4">71 St</data>
+      <data key="d5">40.619589</data>
+      <data key="d6">-73.998864</data>
+    </node>
+    <node id="B18">
+      <data key="d0">B</data>
+      <data key="d1">1926290</data>
+      <data key="d2">816330</data>
+      <data key="d3">-1109960</data>
+      <data key="d4">79 St</data>
+      <data key="d5">40.613501</data>
+      <data key="d6">-74.00061</data>
+    </node>
+    <node id="B19">
+      <data key="d0">B</data>
+      <data key="d1">1942617</data>
+      <data key="d2">851720</data>
+      <data key="d3">-1090897</data>
+      <data key="d4">18 Av</data>
+      <data key="d5">40.607954</data>
+      <data key="d6">-74.001736</data>
+    </node>
+    <node id="B20">
+      <data key="d0">B</data>
+      <data key="d1">1578971</data>
+      <data key="d2">703957</data>
+      <data key="d3">-875014</data>
+      <data key="d4">20 Av</data>
+      <data key="d5">40.604556</data>
+      <data key="d6">-73.998168</data>
+    </node>
+    <node id="B21">
+      <data key="d0">B</data>
+      <data key="d1">2446673</data>
+      <data key="d2">1086573</data>
+      <data key="d3">-1360100</data>
+      <data key="d4">Bay Pkwy</data>
+      <data key="d5">40.601875</data>
+      <data key="d6">-73.993728</data>
+    </node>
+    <node id="B22">
+      <data key="d0">B</data>
+      <data key="d1">1507759</data>
+      <data key="d2">609450</data>
+      <data key="d3">-898309</data>
+      <data key="d4">25 Av</data>
+      <data key="d5">40.597704</data>
+      <data key="d6">-73.986829</data>
+    </node>
+    <node id="B23">
+      <data key="d0">B</data>
+      <data key="d1">821873</data>
+      <data key="d2">351591</data>
+      <data key="d3">-470282</data>
+      <data key="d4">Bay 50 St</data>
+      <data key="d5">40.588841</data>
+      <data key="d6">-73.983765</data>
+    </node>
+    <node id="D01">
+      <data key="d0">Bx</data>
+      <data key="d1">2639003</data>
+      <data key="d2">1315356</data>
+      <data key="d3">-1323647</data>
+      <data key="d4">Norwood-205 St</data>
+      <data key="d5">40.874811</data>
+      <data key="d6">-73.878855</data>
+    </node>
+    <node id="D03">
+      <data key="d0">Bx</data>
+      <data key="d1">2143375</data>
+      <data key="d2">968590</data>
+      <data key="d3">-1174785</data>
+      <data key="d4">Bedford Park Blvd</data>
+      <data key="d5">40.873244</data>
+      <data key="d6">-73.887138</data>
+    </node>
+    <node id="D04">
+      <data key="d0">Bx</data>
+      <data key="d1">2485283</data>
+      <data key="d2">1189102</data>
+      <data key="d3">-1296181</data>
+      <data key="d4">Kingsbridge Rd</data>
+      <data key="d5">40.866978</data>
+      <data key="d6">-73.893509</data>
+    </node>
+    <node id="D05">
+      <data key="d0">Bx</data>
+      <data key="d1">3671217</data>
+      <data key="d2">1713032</data>
+      <data key="d3">-1958185</data>
+      <data key="d4">Fordham Rd</data>
+      <data key="d5">40.861296</data>
+      <data key="d6">-73.897749</data>
+    </node>
+    <node id="D06">
+      <data key="d0">Bx</data>
+      <data key="d1">1513443</data>
+      <data key="d2">761613</data>
+      <data key="d3">-751830</data>
+      <data key="d4">182-183 Sts</data>
+      <data key="d5">40.856093</data>
+      <data key="d6">-73.900741</data>
+    </node>
+    <node id="D07">
+      <data key="d0">Bx</data>
+      <data key="d1">3052099</data>
+      <data key="d2">1433744</data>
+      <data key="d3">-1618355</data>
+      <data key="d4">Tremont Av</data>
+      <data key="d5">40.85041</data>
+      <data key="d6">-73.905227</data>
+    </node>
+    <node id="D08">
+      <data key="d0">Bx</data>
+      <data key="d1">1518260</data>
+      <data key="d2">788121</data>
+      <data key="d3">-730139</data>
+      <data key="d4">174-175 Sts</data>
+      <data key="d5">40.8459</data>
+      <data key="d6">-73.910136</data>
+    </node>
+    <node id="D09">
+      <data key="d0">Bx</data>
+      <data key="d1">2130461</data>
+      <data key="d2">1002095</data>
+      <data key="d3">-1128366</data>
+      <data key="d4">170 St</data>
+      <data key="d5">40.839306</data>
+      <data key="d6">-73.9134</data>
+    </node>
+    <node id="D10">
+      <data key="d0">Bx</data>
+      <data key="d1">2734530</data>
+      <data key="d2">1422149</data>
+      <data key="d3">-1312381</data>
+      <data key="d4">167 St</data>
+      <data key="d5">40.833771</data>
+      <data key="d6">-73.91844</data>
+    </node>
+    <node id="D12">
+      <data key="d0">M</data>
+      <data key="d1">1123868</data>
+      <data key="d2">546625</data>
+      <data key="d3">-577243</data>
+      <data key="d4">155 St</data>
+      <data key="d5">40.830135</data>
+      <data key="d6">-73.938209</data>
+    </node>
+    <node id="D14">
+      <data key="d0">M</data>
+      <data key="d1">5508778</data>
+      <data key="d2">1545234</data>
+      <data key="d3">-3963544</data>
+      <data key="d4">7 Av</data>
+      <data key="d5">40.762862</data>
+      <data key="d6">-73.981637</data>
+    </node>
+    <node id="D15">
+      <data key="d0">M</data>
+      <data key="d1">18604810</data>
+      <data key="d2">5826100</data>
+      <data key="d3">-12778710</data>
+      <data key="d4">47-50 Sts-Rockefeller Ctr</data>
+      <data key="d5">40.758663</data>
+      <data key="d6">-73.981329</data>
+    </node>
+    <node id="LINK_D17">
+      <data key="d0">M</data>
+      <data key="d1">39385436</data>
+      <data key="d2">12826841</data>
+      <data key="d3">-26558595</data>
+      <data key="d4">34 St-Herald Sq</data>
+      <data key="d5">40.749719</data>
+      <data key="d6">-73.987823</data>
+    </node>
+    <node id="D18">
+      <data key="d0">M</data>
+      <data key="d1">8619473</data>
+      <data key="d2">3100291</data>
+      <data key="d3">-5519182</data>
+      <data key="d4">23 St</data>
+      <data key="d5">40.742878</data>
+      <data key="d6">-73.992821</data>
+    </node>
+    <node id="D22">
+      <data key="d0">M</data>
+      <data key="d1">8024364</data>
+      <data key="d2">2908017</data>
+      <data key="d3">-5116347</data>
+      <data key="d4">Grand St</data>
+      <data key="d5">40.718267</data>
+      <data key="d6">-73.993753</data>
+    </node>
+    <node id="D25">
+      <data key="d0">B</data>
+      <data key="d1">3103599</data>
+      <data key="d2">1007948</data>
+      <data key="d3">-2095651</data>
+      <data key="d4">7 Av</data>
+      <data key="d5">40.67705</data>
+      <data key="d6">-73.972367</data>
+    </node>
+    <node id="D26">
+      <data key="d0">B</data>
+      <data key="d1">3323334</data>
+      <data key="d2">1261501</data>
+      <data key="d3">-2061833</data>
+      <data key="d4">Prospect Park</data>
+      <data key="d5">40.661614</data>
+      <data key="d6">-73.962246</data>
+    </node>
+    <node id="D27">
+      <data key="d0">B</data>
+      <data key="d1">1955051</data>
+      <data key="d2">861896</data>
+      <data key="d3">-1093155</data>
+      <data key="d4">Parkside Av</data>
+      <data key="d5">40.655292</data>
+      <data key="d6">-73.961495</data>
+    </node>
+    <node id="D28">
+      <data key="d0">B</data>
+      <data key="d1">5061013</data>
+      <data key="d2">2181585</data>
+      <data key="d3">-2879428</data>
+      <data key="d4">Church Av</data>
+      <data key="d5">40.650527</data>
+      <data key="d6">-73.962982</data>
+    </node>
+    <node id="D29">
+      <data key="d0">B</data>
+      <data key="d1">1048249</data>
+      <data key="d2">453974</data>
+      <data key="d3">-594275</data>
+      <data key="d4">Beverley Rd</data>
+      <data key="d5">40.644031</data>
+      <data key="d6">-73.964492</data>
+    </node>
+    <node id="D30">
+      <data key="d0">B</data>
+      <data key="d1">1957538</data>
+      <data key="d2">835380</data>
+      <data key="d3">-1122158</data>
+      <data key="d4">Cortelyou Rd</data>
+      <data key="d5">40.640927</data>
+      <data key="d6">-73.963891</data>
+    </node>
+    <node id="D31">
+      <data key="d0">B</data>
+      <data key="d1">3252504</data>
+      <data key="d2">1356510</data>
+      <data key="d3">-1895994</data>
+      <data key="d4">Newkirk Plaza</data>
+      <data key="d5">40.635082</data>
+      <data key="d6">-73.962793</data>
+    </node>
+    <node id="D32">
+      <data key="d0">B</data>
+      <data key="d1">991766</data>
+      <data key="d2">395439</data>
+      <data key="d3">-596327</data>
+      <data key="d4">Avenue H</data>
+      <data key="d5">40.62927</data>
+      <data key="d6">-73.961639</data>
+    </node>
+    <node id="D33">
+      <data key="d0">B</data>
+      <data key="d1">1775846</data>
+      <data key="d2">799621</data>
+      <data key="d3">-976225</data>
+      <data key="d4">Avenue J</data>
+      <data key="d5">40.625039</data>
+      <data key="d6">-73.960803</data>
+    </node>
+    <node id="D34">
+      <data key="d0">B</data>
+      <data key="d1">1691285</data>
+      <data key="d2">763258</data>
+      <data key="d3">-928027</data>
+      <data key="d4">Avenue M</data>
+      <data key="d5">40.617618</data>
+      <data key="d6">-73.959399</data>
+    </node>
+    <node id="D35">
+      <data key="d0">B</data>
+      <data key="d1">5938819</data>
+      <data key="d2">2588491</data>
+      <data key="d3">-3350328</data>
+      <data key="d4">Kings Hwy</data>
+      <data key="d5">40.60867</data>
+      <data key="d6">-73.957734</data>
+    </node>
+    <node id="D37">
+      <data key="d0">B</data>
+      <data key="d1">2301941</data>
+      <data key="d2">979080</data>
+      <data key="d3">-1322861</data>
+      <data key="d4">Avenue U</data>
+      <data key="d5">40.5993</data>
+      <data key="d6">-73.955929</data>
+    </node>
+    <node id="D38">
+      <data key="d0">B</data>
+      <data key="d1">1362524</data>
+      <data key="d2">573448</data>
+      <data key="d3">-789076</data>
+      <data key="d4">Neck Rd</data>
+      <data key="d5">40.595246</data>
+      <data key="d6">-73.955161</data>
+    </node>
+    <node id="D39">
+      <data key="d0">B</data>
+      <data key="d1">4169796</data>
+      <data key="d2">1772098</data>
+      <data key="d3">-2397698</data>
+      <data key="d4">Sheepshead Bay</data>
+      <data key="d5">40.586896</data>
+      <data key="d6">-73.954155</data>
+    </node>
+    <node id="D40">
+      <data key="d0">B</data>
+      <data key="d1">3745994</data>
+      <data key="d2">1683782</data>
+      <data key="d3">-2062212</data>
+      <data key="d4">Brighton Beach</data>
+      <data key="d5">40.577621</data>
+      <data key="d6">-73.961376</data>
+    </node>
+    <node id="D41">
+      <data key="d0">B</data>
+      <data key="d1">1033340</data>
+      <data key="d2">462998</data>
+      <data key="d3">-570342</data>
+      <data key="d4">Ocean Pkwy</data>
+      <data key="d5">40.576312</data>
+      <data key="d6">-73.968501</data>
+    </node>
+    <node id="D42">
+      <data key="d0">B</data>
+      <data key="d1">837836</data>
+      <data key="d2">315691</data>
+      <data key="d3">-522145</data>
+      <data key="d4">W 8 St-NY Aquarium</data>
+      <data key="d5">40.576127</data>
+      <data key="d6">-73.975939</data>
+    </node>
+    <node id="D43">
+      <data key="d0">B</data>
+      <data key="d1">4579191</data>
+      <data key="d2">1838369</data>
+      <data key="d3">-2740822</data>
+      <data key="d4">Coney Island-Stillwell Av</data>
+      <data key="d5">40.577422</data>
+      <data key="d6">-73.981233</data>
+    </node>
+    <node id="F01">
+      <data key="d0">Q</data>
+      <data key="d1">6262449</data>
+      <data key="d2">2741359</data>
+      <data key="d3">-3521090</data>
+      <data key="d4">Jamaica-179 St</data>
+      <data key="d5">40.712646</data>
+      <data key="d6">-73.783817</data>
+    </node>
+    <node id="F02">
+      <data key="d0">Q</data>
+      <data key="d1">2465120</data>
+      <data key="d2">1061564</data>
+      <data key="d3">-1403556</data>
+      <data key="d4">169 St</data>
+      <data key="d5">40.71047</data>
+      <data key="d6">-73.793604</data>
+    </node>
+    <node id="F03">
+      <data key="d0">Q</data>
+      <data key="d1">2086114</data>
+      <data key="d2">1089861</data>
+      <data key="d3">-996253</data>
+      <data key="d4">Parsons Blvd</data>
+      <data key="d5">40.707564</data>
+      <data key="d6">-73.803326</data>
+    </node>
+    <node id="F04">
+      <data key="d0">Q</data>
+      <data key="d1">1345420</data>
+      <data key="d2">702013</data>
+      <data key="d3">-643407</data>
+      <data key="d4">Sutphin Blvd</data>
+      <data key="d5">40.70546</data>
+      <data key="d6">-73.810708</data>
+    </node>
+    <node id="F05">
+      <data key="d0">Q</data>
+      <data key="d1">1501152</data>
+      <data key="d2">627403</data>
+      <data key="d3">-873749</data>
+      <data key="d4">Briarwood</data>
+      <data key="d5">40.709179</data>
+      <data key="d6">-73.820574</data>
+    </node>
+    <node id="F06">
+      <data key="d0">Q</data>
+      <data key="d1">7625674</data>
+      <data key="d2">3054242</data>
+      <data key="d3">-4571432</data>
+      <data key="d4">Kew Gardens-Union Tpke</data>
+      <data key="d5">40.714441</data>
+      <data key="d6">-73.831008</data>
+    </node>
+    <node id="F07">
+      <data key="d0">Q</data>
+      <data key="d1">1059027</data>
+      <data key="d2">395084</data>
+      <data key="d3">-663943</data>
+      <data key="d4">75 Av</data>
+      <data key="d5">40.718331</data>
+      <data key="d6">-73.837324</data>
+    </node>
+    <node id="F12">
+      <data key="d0">M</data>
+      <data key="d1">7684091</data>
+      <data key="d2">2076871</data>
+      <data key="d3">-5607220</data>
+      <data key="d4">5 Av/53 St</data>
+      <data key="d5">40.760167</data>
+      <data key="d6">-73.975224</data>
+    </node>
+    <node id="LINK_F15">
+      <data key="d0">M</data>
+      <data key="d1">8861296</data>
+      <data key="d2">3388714</data>
+      <data key="d3">-5472582</data>
+      <data key="d4">Delancey St-Essex St</data>
+      <data key="d5">40.718611</data>
+      <data key="d6">-73.988114</data>
+    </node>
+    <node id="F14">
+      <data key="d0">M</data>
+      <data key="d1">5583944</data>
+      <data key="d2">1846978</data>
+      <data key="d3">-3736966</data>
+      <data key="d4">2 Av</data>
+      <data key="d5">40.723402</data>
+      <data key="d6">-73.989938</data>
+    </node>
+    <node id="F16">
+      <data key="d0">M</data>
+      <data key="d1">4460330</data>
+      <data key="d2">1622512</data>
+      <data key="d3">-2837818</data>
+      <data key="d4">East Broadway</data>
+      <data key="d5">40.713715</data>
+      <data key="d6">-73.990173</data>
+    </node>
+    <node id="F18">
+      <data key="d0">B</data>
+      <data key="d1">3927129</data>
+      <data key="d2">1257103</data>
+      <data key="d3">-2670026</data>
+      <data key="d4">York St</data>
+      <data key="d5">40.701397</data>
+      <data key="d6">-73.986751</data>
+    </node>
+    <node id="F20">
+      <data key="d0">B</data>
+      <data key="d1">3577496</data>
+      <data key="d2">1240354</data>
+      <data key="d3">-2337142</data>
+      <data key="d4">Bergen St</data>
+      <data key="d5">40.686145</data>
+      <data key="d6">-73.990862</data>
+    </node>
+    <node id="F21">
+      <data key="d0">B</data>
+      <data key="d1">3615019</data>
+      <data key="d2">1261245</data>
+      <data key="d3">-2353774</data>
+      <data key="d4">Carroll St</data>
+      <data key="d5">40.680303</data>
+      <data key="d6">-73.995048</data>
+    </node>
+    <node id="LINK_F23">
+      <data key="d0">B</data>
+      <data key="d1">3924882</data>
+      <data key="d2">1531708</data>
+      <data key="d3">-2393174</data>
+      <data key="d4">4 Av-9 St</data>
+      <data key="d5">40.670272</data>
+      <data key="d6">-73.989779</data>
+    </node>
+    <node id="F22">
+      <data key="d0">B</data>
+      <data key="d1">1435824</data>
+      <data key="d2">609725</data>
+      <data key="d3">-826099</data>
+      <data key="d4">Smith-9 Sts</data>
+      <data key="d5">40.67358</data>
+      <data key="d6">-73.995959</data>
+    </node>
+    <node id="F24">
+      <data key="d0">B</data>
+      <data key="d1">3675218</data>
+      <data key="d2">1314989</data>
+      <data key="d3">-2360229</data>
+      <data key="d4">7 Av</data>
+      <data key="d5">40.666271</data>
+      <data key="d6">-73.980305</data>
+    </node>
+    <node id="F25">
+      <data key="d0">B</data>
+      <data key="d1">1964534</data>
+      <data key="d2">681492</data>
+      <data key="d3">-1283042</data>
+      <data key="d4">15 St-Prospect Park</data>
+      <data key="d5">40.660365</data>
+      <data key="d6">-73.979493</data>
+    </node>
+    <node id="F26">
+      <data key="d0">B</data>
+      <data key="d1">1800167</data>
+      <data key="d2">633055</data>
+      <data key="d3">-1167112</data>
+      <data key="d4">Fort Hamilton Pkwy</data>
+      <data key="d5">40.650782</data>
+      <data key="d6">-73.975776</data>
+    </node>
+    <node id="F27">
+      <data key="d0">B</data>
+      <data key="d1">3051736</data>
+      <data key="d2">1368063</data>
+      <data key="d3">-1683673</data>
+      <data key="d4">Church Av</data>
+      <data key="d5">40.644041</data>
+      <data key="d6">-73.979678</data>
+    </node>
+    <node id="F29">
+      <data key="d0">B</data>
+      <data key="d1">1177275</data>
+      <data key="d2">538215</data>
+      <data key="d3">-639060</data>
+      <data key="d4">Ditmas Av</data>
+      <data key="d5">40.636119</data>
+      <data key="d6">-73.978172</data>
+    </node>
+    <node id="F30">
+      <data key="d0">B</data>
+      <data key="d1">1113492</data>
+      <data key="d2">503136</data>
+      <data key="d3">-610356</data>
+      <data key="d4">18 Av</data>
+      <data key="d5">40.629755</data>
+      <data key="d6">-73.976971</data>
+    </node>
+    <node id="F31">
+      <data key="d0">B</data>
+      <data key="d1">584129</data>
+      <data key="d2">262583</data>
+      <data key="d3">-321546</data>
+      <data key="d4">Avenue I</data>
+      <data key="d5">40.625322</data>
+      <data key="d6">-73.976127</data>
+    </node>
+    <node id="F32">
+      <data key="d0">B</data>
+      <data key="d1">362802</data>
+      <data key="d2">167877</data>
+      <data key="d3">-194925</data>
+      <data key="d4">Bay Pkwy</data>
+      <data key="d5">40.620769</data>
+      <data key="d6">-73.975264</data>
+    </node>
+    <node id="F33">
+      <data key="d0">B</data>
+      <data key="d1">877383</data>
+      <data key="d2">393183</data>
+      <data key="d3">-484200</data>
+      <data key="d4">Avenue N</data>
+      <data key="d5">40.61514</data>
+      <data key="d6">-73.974197</data>
+    </node>
+    <node id="F34">
+      <data key="d0">B</data>
+      <data key="d1">739804</data>
+      <data key="d2">333836</data>
+      <data key="d3">-405968</data>
+      <data key="d4">Avenue P</data>
+      <data key="d5">40.608944</data>
+      <data key="d6">-73.973022</data>
+    </node>
+    <node id="F35">
+      <data key="d0">B</data>
+      <data key="d1">1129071</data>
+      <data key="d2">488475</data>
+      <data key="d3">-640596</data>
+      <data key="d4">Kings Hwy</data>
+      <data key="d5">40.603217</data>
+      <data key="d6">-73.972361</data>
+    </node>
+    <node id="F36">
+      <data key="d0">B</data>
+      <data key="d1">547776</data>
+      <data key="d2">248310</data>
+      <data key="d3">-299466</data>
+      <data key="d4">Avenue U</data>
+      <data key="d5">40.596063</data>
+      <data key="d6">-73.973357</data>
+    </node>
+    <node id="F38">
+      <data key="d0">B</data>
+      <data key="d1">758700</data>
+      <data key="d2">334714</data>
+      <data key="d3">-423986</data>
+      <data key="d4">Avenue X</data>
+      <data key="d5">40.58962</data>
+      <data key="d6">-73.97425</data>
+    </node>
+    <node id="F39">
+      <data key="d0">B</data>
+      <data key="d1">428163</data>
+      <data key="d2">185099</data>
+      <data key="d3">-243064</data>
+      <data key="d4">Neptune Av</data>
+      <data key="d5">40.581011</data>
+      <data key="d6">-73.974574</data>
+    </node>
+    <node id="G05">
+      <data key="d0">Q</data>
+      <data key="d1">10010419</data>
+      <data key="d2">4284646</data>
+      <data key="d3">-5725773</data>
+      <data key="d4">Jamaica Center-Parsons/Archer</data>
+      <data key="d5">40.702147</data>
+      <data key="d6">-73.801109</data>
+    </node>
+    <node id="G06">
+      <data key="d0">Q</data>
+      <data key="d1">7354064</data>
+      <data key="d2">2951061</data>
+      <data key="d3">-4403003</data>
+      <data key="d4">Sutphin Blvd-Archer Av-JFK Airport</data>
+      <data key="d5">40.700486</data>
+      <data key="d6">-73.807969</data>
+    </node>
+    <node id="G07">
+      <data key="d0">Q</data>
+      <data key="d1">1412179</data>
+      <data key="d2">807093</data>
+      <data key="d3">-605086</data>
+      <data key="d4">Jamaica-Van Wyck</data>
+      <data key="d5">40.702566</data>
+      <data key="d6">-73.816859</data>
+    </node>
+    <node id="G08">
+      <data key="d0">Q</data>
+      <data key="d1">8027234</data>
+      <data key="d2">3100667</data>
+      <data key="d3">-4926567</data>
+      <data key="d4">Forest Hills-71 Av</data>
+      <data key="d5">40.721691</data>
+      <data key="d6">-73.844521</data>
+    </node>
+    <node id="G09">
+      <data key="d0">Q</data>
+      <data key="d1">2641450</data>
+      <data key="d2">1021518</data>
+      <data key="d3">-1619932</data>
+      <data key="d4">67 Av</data>
+      <data key="d5">40.726523</data>
+      <data key="d6">-73.852719</data>
+    </node>
+    <node id="G10">
+      <data key="d0">Q</data>
+      <data key="d1">4753706</data>
+      <data key="d2">1954647</data>
+      <data key="d3">-2799059</data>
+      <data key="d4">63 Dr-Rego Park</data>
+      <data key="d5">40.729846</data>
+      <data key="d6">-73.861604</data>
+    </node>
+    <node id="G11">
+      <data key="d0">Q</data>
+      <data key="d1">6381132</data>
+      <data key="d2">2634483</data>
+      <data key="d3">-3746649</data>
+      <data key="d4">Woodhaven Blvd</data>
+      <data key="d5">40.733106</data>
+      <data key="d6">-73.869229</data>
+    </node>
+    <node id="G12">
+      <data key="d0">Q</data>
+      <data key="d1">5730846</data>
+      <data key="d2">2394479</data>
+      <data key="d3">-3336367</data>
+      <data key="d4">Grand Av-Newtown</data>
+      <data key="d5">40.737015</data>
+      <data key="d6">-73.877223</data>
+    </node>
+    <node id="G13">
+      <data key="d0">Q</data>
+      <data key="d1">3867341</data>
+      <data key="d2">1706575</data>
+      <data key="d3">-2160766</data>
+      <data key="d4">Elmhurst Av</data>
+      <data key="d5">40.742454</data>
+      <data key="d6">-73.882017</data>
+    </node>
+    <node id="G15">
+      <data key="d0">Q</data>
+      <data key="d1">1098148</data>
+      <data key="d2">465309</data>
+      <data key="d3">-632839</data>
+      <data key="d4">65 St</data>
+      <data key="d5">40.749669</data>
+      <data key="d6">-73.898453</data>
+    </node>
+    <node id="G16">
+      <data key="d0">Q</data>
+      <data key="d1">2008091</data>
+      <data key="d2">902165</data>
+      <data key="d3">-1105926</data>
+      <data key="d4">Northern Blvd</data>
+      <data key="d5">40.752885</data>
+      <data key="d6">-73.906006</data>
+    </node>
+    <node id="G18">
+      <data key="d0">Q</data>
+      <data key="d1">2609445</data>
+      <data key="d2">1052114</data>
+      <data key="d3">-1557331</data>
+      <data key="d4">46 St</data>
+      <data key="d5">40.756312</data>
+      <data key="d6">-73.913333</data>
+    </node>
+    <node id="G19">
+      <data key="d0">Q</data>
+      <data key="d1">4715335</data>
+      <data key="d2">1768131</data>
+      <data key="d3">-2947204</data>
+      <data key="d4">Steinway St</data>
+      <data key="d5">40.756879</data>
+      <data key="d6">-73.92074</data>
+    </node>
+    <node id="G20">
+      <data key="d0">Q</data>
+      <data key="d1">1383420</data>
+      <data key="d2">470766</data>
+      <data key="d3">-912654</data>
+      <data key="d4">36 St</data>
+      <data key="d5">40.752039</data>
+      <data key="d6">-73.928781</data>
+    </node>
+    <node id="G21">
+      <data key="d0">Q</data>
+      <data key="d1">4334290</data>
+      <data key="d2">1422188</data>
+      <data key="d3">-2912102</data>
+      <data key="d4">Queens Plaza</data>
+      <data key="d5">40.748973</data>
+      <data key="d6">-73.937243</data>
+    </node>
+    <node id="G24">
+      <data key="d0">Q</data>
+      <data key="d1">535536</data>
+      <data key="d2">228383</data>
+      <data key="d3">-307153</data>
+      <data key="d4">21 St</data>
+      <data key="d5">40.744065</data>
+      <data key="d6">-73.949724</data>
+    </node>
+    <node id="G26">
+      <data key="d0">B</data>
+      <data key="d1">3089912</data>
+      <data key="d2">1296681</data>
+      <data key="d3">-1793231</data>
+      <data key="d4">Greenpoint Av</data>
+      <data key="d5">40.731352</data>
+      <data key="d6">-73.954449</data>
+    </node>
+    <node id="LINK_G29">
+      <data key="d0">B</data>
+      <data key="d1">4696924</data>
+      <data key="d2">1780896</data>
+      <data key="d3">-2916028</data>
+      <data key="d4">Metropolitan Av</data>
+      <data key="d5">40.712792</data>
+      <data key="d6">-73.951418</data>
+    </node>
+    <node id="G28">
+      <data key="d0">B</data>
+      <data key="d1">3136229</data>
+      <data key="d2">1186206</data>
+      <data key="d3">-1950023</data>
+      <data key="d4">Nassau Av</data>
+      <data key="d5">40.724635</data>
+      <data key="d6">-73.951277</data>
+    </node>
+    <node id="G30">
+      <data key="d0">B</data>
+      <data key="d1">1506905</data>
+      <data key="d2">728238</data>
+      <data key="d3">-778667</data>
+      <data key="d4">Broadway</data>
+      <data key="d5">40.706092</data>
+      <data key="d6">-73.950308</data>
+    </node>
+    <node id="G31">
+      <data key="d0">B</data>
+      <data key="d1">732897</data>
+      <data key="d2">402100</data>
+      <data key="d3">-330797</data>
+      <data key="d4">Flushing Av</data>
+      <data key="d5">40.700377</data>
+      <data key="d6">-73.950234</data>
+    </node>
+    <node id="G32">
+      <data key="d0">B</data>
+      <data key="d1">1820637</data>
+      <data key="d2">789214</data>
+      <data key="d3">-1031423</data>
+      <data key="d4">Myrtle-Willoughby Avs</data>
+      <data key="d5">40.694568</data>
+      <data key="d6">-73.949046</data>
+    </node>
+    <node id="G33">
+      <data key="d0">B</data>
+      <data key="d1">2795387</data>
+      <data key="d2">1062724</data>
+      <data key="d3">-1732663</data>
+      <data key="d4">Bedford-Nostrand Avs</data>
+      <data key="d5">40.689627</data>
+      <data key="d6">-73.953522</data>
+    </node>
+    <node id="G34">
+      <data key="d0">B</data>
+      <data key="d1">1722852</data>
+      <data key="d2">667262</data>
+      <data key="d3">-1055590</data>
+      <data key="d4">Classon Av</data>
+      <data key="d5">40.688873</data>
+      <data key="d6">-73.96007</data>
+    </node>
+    <node id="G35">
+      <data key="d0">B</data>
+      <data key="d1">1609332</data>
+      <data key="d2">574939</data>
+      <data key="d3">-1034393</data>
+      <data key="d4">Clinton-Washington Avs</data>
+      <data key="d5">40.688089</data>
+      <data key="d6">-73.966839</data>
+    </node>
+    <node id="G36">
+      <data key="d0">B</data>
+      <data key="d1">1768601</data>
+      <data key="d2">743347</data>
+      <data key="d3">-1025254</data>
+      <data key="d4">Fulton St</data>
+      <data key="d5">40.687119</data>
+      <data key="d6">-73.975375</data>
+    </node>
+    <node id="H01">
+      <data key="d0">Q</data>
+      <data key="d1">601436</data>
+      <data key="d2">168737</data>
+      <data key="d3">-432699</data>
+      <data key="d4">Aqueduct Racetrack</data>
+      <data key="d5">40.668234</data>
+      <data key="d6">-73.834058</data>
+    </node>
+    <node id="H02">
+      <data key="d0">Q</data>
+      <data key="d1">263422</data>
+      <data key="d2">107146</data>
+      <data key="d3">-156276</data>
+      <data key="d4">Aqueduct-N Conduit Av</data>
+      <data key="d5">40.668234</data>
+      <data key="d6">-73.834058</data>
+    </node>
+    <node id="H03">
+      <data key="d0">Q</data>
+      <data key="d1">1171303</data>
+      <data key="d2">325750</data>
+      <data key="d3">-845553</data>
+      <data key="d4">Howard Beach-JFK Airport</data>
+      <data key="d5">40.660476</data>
+      <data key="d6">-73.830301</data>
+    </node>
+    <node id="H04">
+      <data key="d0">Q</data>
+      <data key="d1">90358</data>
+      <data key="d2">35837</data>
+      <data key="d3">-54521</data>
+      <data key="d4">Broad Channel</data>
+      <data key="d5">40.608382</data>
+      <data key="d6">-73.815925</data>
+    </node>
+    <node id="H06">
+      <data key="d0">Q</data>
+      <data key="d1">718008</data>
+      <data key="d2">366760</data>
+      <data key="d3">-351248</data>
+      <data key="d4">Beach 67 St</data>
+      <data key="d5">40.590927</data>
+      <data key="d6">-73.796924</data>
+    </node>
+    <node id="H07">
+      <data key="d0">Q</data>
+      <data key="d1">623826</data>
+      <data key="d2">313416</data>
+      <data key="d3">-310410</data>
+      <data key="d4">Beach 60 St</data>
+      <data key="d5">40.592374</data>
+      <data key="d6">-73.788522</data>
+    </node>
+    <node id="H08">
+      <data key="d0">Q</data>
+      <data key="d1">215701</data>
+      <data key="d2">109448</data>
+      <data key="d3">-106253</data>
+      <data key="d4">Beach 44 St</data>
+      <data key="d5">40.592943</data>
+      <data key="d6">-73.776013</data>
+    </node>
+    <node id="H09">
+      <data key="d0">Q</data>
+      <data key="d1">292305</data>
+      <data key="d2">149257</data>
+      <data key="d3">-143048</data>
+      <data key="d4">Beach 36 St</data>
+      <data key="d5">40.595398</data>
+      <data key="d6">-73.768175</data>
+    </node>
+    <node id="H10">
+      <data key="d0">Q</data>
+      <data key="d1">517164</data>
+      <data key="d2">258136</data>
+      <data key="d3">-259028</data>
+      <data key="d4">Beach 25 St</data>
+      <data key="d5">40.600066</data>
+      <data key="d6">-73.761353</data>
+    </node>
+    <node id="H11">
+      <data key="d0">Q</data>
+      <data key="d1">1347765</data>
+      <data key="d2">709394</data>
+      <data key="d3">-638371</data>
+      <data key="d4">Far Rockaway-Mott Av</data>
+      <data key="d5">40.603995</data>
+      <data key="d6">-73.755405</data>
+    </node>
+    <node id="H12">
+      <data key="d0">Q</data>
+      <data key="d1">348771</data>
+      <data key="d2">129188</data>
+      <data key="d3">-219583</data>
+      <data key="d4">Beach 90 St</data>
+      <data key="d5">40.588034</data>
+      <data key="d6">-73.813641</data>
+    </node>
+    <node id="H13">
+      <data key="d0">Q</data>
+      <data key="d1">164130</data>
+      <data key="d2">63297</data>
+      <data key="d3">-100833</data>
+      <data key="d4">Beach 98 St</data>
+      <data key="d5">40.585307</data>
+      <data key="d6">-73.820558</data>
+    </node>
+    <node id="H14">
+      <data key="d0">Q</data>
+      <data key="d1">88439</data>
+      <data key="d2">37750</data>
+      <data key="d3">-50689</data>
+      <data key="d4">Beach 105 St</data>
+      <data key="d5">40.583209</data>
+      <data key="d6">-73.827559</data>
+    </node>
+    <node id="H15">
+      <data key="d0">Q</data>
+      <data key="d1">228144</data>
+      <data key="d2">110133</data>
+      <data key="d3">-118011</data>
+      <data key="d4">Rockaway Park-Beach 116 St</data>
+      <data key="d5">40.580903</data>
+      <data key="d6">-73.835592</data>
+    </node>
+    <node id="J12">
+      <data key="d0">Q</data>
+      <data key="d1">675500</data>
+      <data key="d2">315015</data>
+      <data key="d3">-360485</data>
+      <data key="d4">121 St</data>
+      <data key="d5">40.700492</data>
+      <data key="d6">-73.828294</data>
+    </node>
+    <node id="J13">
+      <data key="d0">Q</data>
+      <data key="d1">350344</data>
+      <data key="d2">302101</data>
+      <data key="d3">-48243</data>
+      <data key="d4">111 St</data>
+      <data key="d5">40.697418</data>
+      <data key="d6">-73.836345</data>
+    </node>
+    <node id="J14">
+      <data key="d0">Q</data>
+      <data key="d1">774888</data>
+      <data key="d2">365060</data>
+      <data key="d3">-409828</data>
+      <data key="d4">104 St</data>
+      <data key="d5">40.695178</data>
+      <data key="d6">-73.84433</data>
+    </node>
+    <node id="J15">
+      <data key="d0">Q</data>
+      <data key="d1">1337787</data>
+      <data key="d2">681796</data>
+      <data key="d3">-655991</data>
+      <data key="d4">Woodhaven Blvd</data>
+      <data key="d5">40.693879</data>
+      <data key="d6">-73.851576</data>
+    </node>
+    <node id="J16">
+      <data key="d0">Q</data>
+      <data key="d1">1061293</data>
+      <data key="d2">546685</data>
+      <data key="d3">-514608</data>
+      <data key="d4">85 St-Forest Pkwy</data>
+      <data key="d5">40.692435</data>
+      <data key="d6">-73.86001</data>
+    </node>
+    <node id="J17">
+      <data key="d0">Q</data>
+      <data key="d1">1029388</data>
+      <data key="d2">516795</data>
+      <data key="d3">-512593</data>
+      <data key="d4">75 St-Elderts Ln</data>
+      <data key="d5">40.691324</data>
+      <data key="d6">-73.867139</data>
+    </node>
+    <node id="J19">
+      <data key="d0">B</data>
+      <data key="d1">420647</data>
+      <data key="d2">222325</data>
+      <data key="d3">-198322</data>
+      <data key="d4">Cypress Hills</data>
+      <data key="d5">40.689941</data>
+      <data key="d6">-73.87255</data>
+    </node>
+    <node id="J20">
+      <data key="d0">B</data>
+      <data key="d1">1391945</data>
+      <data key="d2">677801</data>
+      <data key="d3">-714144</data>
+      <data key="d4">Crescent St</data>
+      <data key="d5">40.683194</data>
+      <data key="d6">-73.873785</data>
+    </node>
+    <node id="J21">
+      <data key="d0">B</data>
+      <data key="d1">948571</data>
+      <data key="d2">454457</data>
+      <data key="d3">-494114</data>
+      <data key="d4">Norwood Av</data>
+      <data key="d5">40.68141</data>
+      <data key="d6">-73.880039</data>
+    </node>
+    <node id="J22">
+      <data key="d0">B</data>
+      <data key="d1">880879</data>
+      <data key="d2">436011</data>
+      <data key="d3">-444868</data>
+      <data key="d4">Cleveland St</data>
+      <data key="d5">40.679947</data>
+      <data key="d6">-73.884639</data>
+    </node>
+    <node id="J23">
+      <data key="d0">B</data>
+      <data key="d1">791691</data>
+      <data key="d2">416713</data>
+      <data key="d3">-374978</data>
+      <data key="d4">Van Siclen Av</data>
+      <data key="d5">40.678024</data>
+      <data key="d6">-73.891688</data>
+    </node>
+    <node id="J24">
+      <data key="d0">B</data>
+      <data key="d1">628299</data>
+      <data key="d2">337011</data>
+      <data key="d3">-291288</data>
+      <data key="d4">Alabama Av</data>
+      <data key="d5">40.676992</data>
+      <data key="d6">-73.898654</data>
+    </node>
+    <node id="J28">
+      <data key="d0">B</data>
+      <data key="d1">1076510</data>
+      <data key="d2">479409</data>
+      <data key="d3">-597101</data>
+      <data key="d4">Chauncey St</data>
+      <data key="d5">40.682893</data>
+      <data key="d6">-73.910456</data>
+    </node>
+    <node id="J29">
+      <data key="d0">B</data>
+      <data key="d1">2120521</data>
+      <data key="d2">871012</data>
+      <data key="d3">-1249509</data>
+      <data key="d4">Halsey St</data>
+      <data key="d5">40.68637</data>
+      <data key="d6">-73.916559</data>
+    </node>
+    <node id="J30">
+      <data key="d0">B</data>
+      <data key="d1">2249791</data>
+      <data key="d2">957606</data>
+      <data key="d3">-1292185</data>
+      <data key="d4">Gates Av</data>
+      <data key="d5">40.68963</data>
+      <data key="d6">-73.92227</data>
+    </node>
+    <node id="J31">
+      <data key="d0">B</data>
+      <data key="d1">1779062</data>
+      <data key="d2">731320</data>
+      <data key="d3">-1047742</data>
+      <data key="d4">Kosciuszko St</data>
+      <data key="d5">40.693342</data>
+      <data key="d6">-73.928814</data>
+    </node>
+    <node id="L05">
+      <data key="d0">M</data>
+      <data key="d1">1700456</data>
+      <data key="d2">742241</data>
+      <data key="d3">-958215</data>
+      <data key="d4">3 Av</data>
+      <data key="d5">40.732849</data>
+      <data key="d6">-73.986122</data>
+    </node>
+    <node id="L06">
+      <data key="d0">M</data>
+      <data key="d1">5345371</data>
+      <data key="d2">2177284</data>
+      <data key="d3">-3168087</data>
+      <data key="d4">1 Av</data>
+      <data key="d5">40.730953</data>
+      <data key="d6">-73.981628</data>
+    </node>
+    <node id="L08">
+      <data key="d0">B</data>
+      <data key="d1">7836366</data>
+      <data key="d2">2873798</data>
+      <data key="d3">-4962568</data>
+      <data key="d4">Bedford Av</data>
+      <data key="d5">40.717304</data>
+      <data key="d6">-73.956872</data>
+    </node>
+    <node id="L11">
+      <data key="d0">B</data>
+      <data key="d1">2709511</data>
+      <data key="d2">1039834</data>
+      <data key="d3">-1669677</data>
+      <data key="d4">Graham Av</data>
+      <data key="d5">40.714565</data>
+      <data key="d6">-73.944053</data>
+    </node>
+    <node id="L12">
+      <data key="d0">B</data>
+      <data key="d1">1847219</data>
+      <data key="d2">809406</data>
+      <data key="d3">-1037813</data>
+      <data key="d4">Grand St</data>
+      <data key="d5">40.711926</data>
+      <data key="d6">-73.94067</data>
+    </node>
+    <node id="L13">
+      <data key="d0">B</data>
+      <data key="d1">1933886</data>
+      <data key="d2">828023</data>
+      <data key="d3">-1105863</data>
+      <data key="d4">Montrose Av</data>
+      <data key="d5">40.707739</data>
+      <data key="d6">-73.93985</data>
+    </node>
+    <node id="L14">
+      <data key="d0">B</data>
+      <data key="d1">2100475</data>
+      <data key="d2">866007</data>
+      <data key="d3">-1234468</data>
+      <data key="d4">Morgan Av</data>
+      <data key="d5">40.706152</data>
+      <data key="d6">-73.933147</data>
+    </node>
+    <node id="L15">
+      <data key="d0">B</data>
+      <data key="d1">2237997</data>
+      <data key="d2">912845</data>
+      <data key="d3">-1325152</data>
+      <data key="d4">Jefferson St</data>
+      <data key="d5">40.706607</data>
+      <data key="d6">-73.922913</data>
+    </node>
+    <node id="LINK_L17">
+      <data key="d0">B</data>
+      <data key="d1">5927332</data>
+      <data key="d2">2704645</data>
+      <data key="d3">-3222687</data>
+      <data key="d4">Myrtle-Wyckoff Avs</data>
+      <data key="d5">40.699814</data>
+      <data key="d6">-73.911586</data>
+    </node>
+    <node id="L16">
+      <data key="d0">B</data>
+      <data key="d1">3290894</data>
+      <data key="d2">1541784</data>
+      <data key="d3">-1749110</data>
+      <data key="d4">DeKalb Av</data>
+      <data key="d5">40.703811</data>
+      <data key="d6">-73.918425</data>
+    </node>
+    <node id="L19">
+      <data key="d0">B</data>
+      <data key="d1">2176141</data>
+      <data key="d2">1005045</data>
+      <data key="d3">-1171096</data>
+      <data key="d4">Halsey St</data>
+      <data key="d5">40.695602</data>
+      <data key="d6">-73.904084</data>
+    </node>
+    <node id="L20">
+      <data key="d0">B</data>
+      <data key="d1">1290221</data>
+      <data key="d2">587630</data>
+      <data key="d3">-702591</data>
+      <data key="d4">Wilson Av</data>
+      <data key="d5">40.688764</data>
+      <data key="d6">-73.904046</data>
+    </node>
+    <node id="L21">
+      <data key="d0">B</data>
+      <data key="d1">600188</data>
+      <data key="d2">298031</data>
+      <data key="d3">-302157</data>
+      <data key="d4">Bushwick Av-Aberdeen St</data>
+      <data key="d5">40.682829</data>
+      <data key="d6">-73.905249</data>
+    </node>
+    <node id="L24">
+      <data key="d0">B</data>
+      <data key="d1">469819</data>
+      <data key="d2">228515</data>
+      <data key="d3">-241304</data>
+      <data key="d4">Atlantic Av</data>
+      <data key="d5">40.675345</data>
+      <data key="d6">-73.903097</data>
+    </node>
+    <node id="L25">
+      <data key="d0">B</data>
+      <data key="d1">1047762</data>
+      <data key="d2">483645</data>
+      <data key="d3">-564117</data>
+      <data key="d4">Sutter Av</data>
+      <data key="d5">40.669367</data>
+      <data key="d6">-73.901975</data>
+    </node>
+    <node id="L26">
+      <data key="d0">B</data>
+      <data key="d1">856615</data>
+      <data key="d2">446530</data>
+      <data key="d3">-410085</data>
+      <data key="d4">Livonia Av</data>
+      <data key="d5">40.664038</data>
+      <data key="d6">-73.900571</data>
+    </node>
+    <node id="L27">
+      <data key="d0">B</data>
+      <data key="d1">1254351</data>
+      <data key="d2">606925</data>
+      <data key="d3">-647426</data>
+      <data key="d4">New Lots Av</data>
+      <data key="d5">40.658733</data>
+      <data key="d6">-73.899232</data>
+    </node>
+    <node id="L28">
+      <data key="d0">B</data>
+      <data key="d1">1001343</data>
+      <data key="d2">477302</data>
+      <data key="d3">-524041</data>
+      <data key="d4">East 105 St</data>
+      <data key="d5">40.650573</data>
+      <data key="d6">-73.899485</data>
+    </node>
+    <node id="L29">
+      <data key="d0">B</data>
+      <data key="d1">3302691</data>
+      <data key="d2">1306173</data>
+      <data key="d3">-1996518</data>
+      <data key="d4">Canarsie-Rockaway Pkwy</data>
+      <data key="d5">40.646654</data>
+      <data key="d6">-73.90185</data>
+    </node>
+    <node id="M01">
+      <data key="d0">Q</data>
+      <data key="d1">1090449</data>
+      <data key="d2">514007</data>
+      <data key="d3">-576442</data>
+      <data key="d4">Middle Village-Metropolitan Av</data>
+      <data key="d5">40.711396</data>
+      <data key="d6">-73.889601</data>
+    </node>
+    <node id="M04">
+      <data key="d0">Q</data>
+      <data key="d1">1776084</data>
+      <data key="d2">841585</data>
+      <data key="d3">-934499</data>
+      <data key="d4">Fresh Pond Rd</data>
+      <data key="d5">40.706186</data>
+      <data key="d6">-73.895877</data>
+    </node>
+    <node id="M05">
+      <data key="d0">Q</data>
+      <data key="d1">1310163</data>
+      <data key="d2">609687</data>
+      <data key="d3">-700476</data>
+      <data key="d4">Forest Av</data>
+      <data key="d5">40.704423</data>
+      <data key="d6">-73.903077</data>
+    </node>
+    <node id="M06">
+      <data key="d0">Q</data>
+      <data key="d1">1080829</data>
+      <data key="d2">474806</data>
+      <data key="d3">-606023</data>
+      <data key="d4">Seneca Av</data>
+      <data key="d5">40.702762</data>
+      <data key="d6">-73.90774</data>
+    </node>
+    <node id="M09">
+      <data key="d0">B</data>
+      <data key="d1">1544093</data>
+      <data key="d2">659855</data>
+      <data key="d3">-884238</data>
+      <data key="d4">Knickerbocker Av</data>
+      <data key="d5">40.698664</data>
+      <data key="d6">-73.919711</data>
+    </node>
+    <node id="M10">
+      <data key="d0">B</data>
+      <data key="d1">1472067</data>
+      <data key="d2">591081</data>
+      <data key="d3">-880986</data>
+      <data key="d4">Central Av</data>
+      <data key="d5">40.697857</data>
+      <data key="d6">-73.927397</data>
+    </node>
+    <node id="M11">
+      <data key="d0">B</data>
+      <data key="d1">3854024</data>
+      <data key="d2">1563366</data>
+      <data key="d3">-2290658</data>
+      <data key="d4">Myrtle Av</data>
+      <data key="d5">40.697207</data>
+      <data key="d6">-73.935657</data>
+    </node>
+    <node id="M12">
+      <data key="d0">B</data>
+      <data key="d1">2773154</data>
+      <data key="d2">1256788</data>
+      <data key="d3">-1516366</data>
+      <data key="d4">Flushing Av</data>
+      <data key="d5">40.70026</data>
+      <data key="d6">-73.941126</data>
+    </node>
+    <node id="M13">
+      <data key="d0">B</data>
+      <data key="d1">1747990</data>
+      <data key="d2">716035</data>
+      <data key="d3">-1031955</data>
+      <data key="d4">Lorimer St</data>
+      <data key="d5">40.703869</data>
+      <data key="d6">-73.947408</data>
+    </node>
+    <node id="M14">
+      <data key="d0">B</data>
+      <data key="d1">1117566</data>
+      <data key="d2">468382</data>
+      <data key="d3">-649184</data>
+      <data key="d4">Hewes St</data>
+      <data key="d5">40.70687</data>
+      <data key="d6">-73.953431</data>
+    </node>
+    <node id="M16">
+      <data key="d0">B</data>
+      <data key="d1">4717791</data>
+      <data key="d2">1816258</data>
+      <data key="d3">-2901533</data>
+      <data key="d4">Marcy Av</data>
+      <data key="d5">40.708359</data>
+      <data key="d6">-73.957757</data>
+    </node>
+    <node id="M19">
+      <data key="d0">M</data>
+      <data key="d1">1325244</data>
+      <data key="d2">454326</data>
+      <data key="d3">-870918</data>
+      <data key="d4">Bowery</data>
+      <data key="d5">40.72028</data>
+      <data key="d6">-73.993915</data>
+    </node>
+    <node id="M23">
+      <data key="d0">M</data>
+      <data key="d1">2172223</data>
+      <data key="d2">698480</data>
+      <data key="d3">-1473743</data>
+      <data key="d4">Broad St</data>
+      <data key="d5">40.706476</data>
+      <data key="d6">-74.011056</data>
+    </node>
+    <node id="N02">
+      <data key="d0">B</data>
+      <data key="d1">3801700</data>
+      <data key="d2">1424892</data>
+      <data key="d3">-2376808</data>
+      <data key="d4">8 Av</data>
+      <data key="d5">40.635064</data>
+      <data key="d6">-74.011719</data>
+    </node>
+    <node id="N03">
+      <data key="d0">B</data>
+      <data key="d1">1372278</data>
+      <data key="d2">780316</data>
+      <data key="d3">-591962</data>
+      <data key="d4">Fort Hamilton Pkwy</data>
+      <data key="d5">40.631386</data>
+      <data key="d6">-74.005351</data>
+    </node>
+    <node id="N05">
+      <data key="d0">B</data>
+      <data key="d1">1179756</data>
+      <data key="d2">677764</data>
+      <data key="d3">-501992</data>
+      <data key="d4">18 Av</data>
+      <data key="d5">40.620671</data>
+      <data key="d6">-73.990414</data>
+    </node>
+    <node id="N06">
+      <data key="d0">B</data>
+      <data key="d1">1142086</data>
+      <data key="d2">486218</data>
+      <data key="d3">-655868</data>
+      <data key="d4">20 Av</data>
+      <data key="d5">40.61741</data>
+      <data key="d6">-73.985026</data>
+    </node>
+    <node id="N07">
+      <data key="d0">B</data>
+      <data key="d1">2071452</data>
+      <data key="d2">940309</data>
+      <data key="d3">-1131143</data>
+      <data key="d4">Bay Pkwy</data>
+      <data key="d5">40.611815</data>
+      <data key="d6">-73.981848</data>
+    </node>
+    <node id="N08">
+      <data key="d0">B</data>
+      <data key="d1">1371311</data>
+      <data key="d2">691832</data>
+      <data key="d3">-679479</data>
+      <data key="d4">Kings Hwy</data>
+      <data key="d5">40.603923</data>
+      <data key="d6">-73.980353</data>
+    </node>
+    <node id="N09">
+      <data key="d0">B</data>
+      <data key="d1">1019104</data>
+      <data key="d2">503937</data>
+      <data key="d3">-515167</data>
+      <data key="d4">Avenue U</data>
+      <data key="d5">40.597473</data>
+      <data key="d6">-73.979137</data>
+    </node>
+    <node id="N10">
+      <data key="d0">B</data>
+      <data key="d1">708542</data>
+      <data key="d2">365213</data>
+      <data key="d3">-343329</data>
+      <data key="d4">86 St</data>
+      <data key="d5">40.592721</data>
+      <data key="d6">-73.97823</data>
+    </node>
+    <node id="Q03">
+      <data key="d0">M</data>
+      <data key="d1">9528891</data>
+      <data key="d2">3752228</data>
+      <data key="d3">-5776663</data>
+      <data key="d4">72 St</data>
+      <data key="d5">40.768799</data>
+      <data key="d6">-73.958424</data>
+    </node>
+    <node id="Q04">
+      <data key="d0">M</data>
+      <data key="d1">8378778</data>
+      <data key="d2">2913038</data>
+      <data key="d3">-5465740</data>
+      <data key="d4">86 St</data>
+      <data key="d5">40.777891</data>
+      <data key="d6">-73.951787</data>
+    </node>
+    <node id="Q05">
+      <data key="d0">M</data>
+      <data key="d1">6154837</data>
+      <data key="d2">2353959</data>
+      <data key="d3">-3800878</data>
+      <data key="d4">96 St</data>
+      <data key="d5">40.784318</data>
+      <data key="d6">-73.947152</data>
+    </node>
+    <node id="R01">
+      <data key="d0">Q</data>
+      <data key="d1">5277341</data>
+      <data key="d2">1996236</data>
+      <data key="d3">-3281105</data>
+      <data key="d4">Astoria-Ditmars Blvd</data>
+      <data key="d5">40.775036</data>
+      <data key="d6">-73.912034</data>
+    </node>
+    <node id="R03">
+      <data key="d0">Q</data>
+      <data key="d1">723354</data>
+      <data key="d2">1053976</data>
+      <data key="d3">330622</data>
+      <data key="d4">Astoria Blvd</data>
+      <data key="d5">40.770258</data>
+      <data key="d6">-73.917843</data>
+    </node>
+    <node id="R04">
+      <data key="d0">Q</data>
+      <data key="d1">5230182</data>
+      <data key="d2">1767179</data>
+      <data key="d3">-3463003</data>
+      <data key="d4">30 Av</data>
+      <data key="d5">40.766779</data>
+      <data key="d6">-73.921479</data>
+    </node>
+    <node id="R05">
+      <data key="d0">Q</data>
+      <data key="d1">3038655</data>
+      <data key="d2">1463280</data>
+      <data key="d3">-1575375</data>
+      <data key="d4">Broadway</data>
+      <data key="d5">40.76182</data>
+      <data key="d6">-73.925508</data>
+    </node>
+    <node id="R06">
+      <data key="d0">Q</data>
+      <data key="d1">1933812</data>
+      <data key="d2">845827</data>
+      <data key="d3">-1087985</data>
+      <data key="d4">36 Av</data>
+      <data key="d5">40.756804</data>
+      <data key="d6">-73.929575</data>
+    </node>
+    <node id="R08">
+      <data key="d0">Q</data>
+      <data key="d1">761816</data>
+      <data key="d2">382607</data>
+      <data key="d3">-379209</data>
+      <data key="d4">39 Av-Dutch Kills</data>
+      <data key="d5">40.752882</data>
+      <data key="d6">-73.932755</data>
+    </node>
+    <node id="R13">
+      <data key="d0">M</data>
+      <data key="d1">4995128</data>
+      <data key="d2">1672584</data>
+      <data key="d3">-3322544</data>
+      <data key="d4">5 Av/59 St</data>
+      <data key="d5">40.764811</data>
+      <data key="d6">-73.973347</data>
+    </node>
+    <node id="R14">
+      <data key="d0">M</data>
+      <data key="d1">11012550</data>
+      <data key="d2">3474824</data>
+      <data key="d3">-7537726</data>
+      <data key="d4">57 St-7 Av</data>
+      <data key="d5">40.764664</data>
+      <data key="d6">-73.980658</data>
+    </node>
+    <node id="R15">
+      <data key="d0">M</data>
+      <data key="d1">7410041</data>
+      <data key="d2">1985474</data>
+      <data key="d3">-5424567</data>
+      <data key="d4">49 St</data>
+      <data key="d5">40.759901</data>
+      <data key="d6">-73.984139</data>
+    </node>
+    <node id="R18">
+      <data key="d0">M</data>
+      <data key="d1">4018310</data>
+      <data key="d2">1197468</data>
+      <data key="d3">-2820842</data>
+      <data key="d4">28 St</data>
+      <data key="d5">40.745494</data>
+      <data key="d6">-73.988691</data>
+    </node>
+    <node id="R19">
+      <data key="d0">M</data>
+      <data key="d1">7085694</data>
+      <data key="d2">2020698</data>
+      <data key="d3">-5064996</data>
+      <data key="d4">23 St</data>
+      <data key="d5">40.741303</data>
+      <data key="d6">-73.989344</data>
+    </node>
+    <node id="R21">
+      <data key="d0">M</data>
+      <data key="d1">5434212</data>
+      <data key="d2">1549451</data>
+      <data key="d3">-3884761</data>
+      <data key="d4">8 St-NYU</data>
+      <data key="d5">40.730328</data>
+      <data key="d6">-73.992629</data>
+    </node>
+    <node id="R22">
+      <data key="d0">M</data>
+      <data key="d1">4342692</data>
+      <data key="d2">1218279</data>
+      <data key="d3">-3124413</data>
+      <data key="d4">Prince St</data>
+      <data key="d5">40.724329</data>
+      <data key="d6">-73.997702</data>
+    </node>
+    <node id="R24">
+      <data key="d0">M</data>
+      <data key="d1">1710380</data>
+      <data key="d2">536758</data>
+      <data key="d3">-1173622</data>
+      <data key="d4">City Hall</data>
+      <data key="d5">40.713282</data>
+      <data key="d6">-74.006978</data>
+    </node>
+    <node id="R26">
+      <data key="d0">M</data>
+      <data key="d1">2014996</data>
+      <data key="d2">594426</data>
+      <data key="d3">-1420570</data>
+      <data key="d4">Rector St</data>
+      <data key="d5">40.70722</data>
+      <data key="d6">-74.013342</data>
+    </node>
+    <node id="R30">
+      <data key="d0">B</data>
+      <data key="d1">6708640</data>
+      <data key="d2">2419410</data>
+      <data key="d3">-4289230</data>
+      <data key="d4">DeKalb Av</data>
+      <data key="d5">40.690635</data>
+      <data key="d6">-73.981824</data>
+    </node>
+    <node id="R32">
+      <data key="d0">B</data>
+      <data key="d1">2271983</data>
+      <data key="d2">808042</data>
+      <data key="d3">-1463941</data>
+      <data key="d4">Union St</data>
+      <data key="d5">40.677316</data>
+      <data key="d6">-73.98311</data>
+    </node>
+    <node id="R34">
+      <data key="d0">B</data>
+      <data key="d1">1780893</data>
+      <data key="d2">676624</data>
+      <data key="d3">-1104269</data>
+      <data key="d4">Prospect Av</data>
+      <data key="d5">40.665414</data>
+      <data key="d6">-73.992872</data>
+    </node>
+    <node id="R35">
+      <data key="d0">B</data>
+      <data key="d1">1153842</data>
+      <data key="d2">504579</data>
+      <data key="d3">-649263</data>
+      <data key="d4">25 St</data>
+      <data key="d5">40.660397</data>
+      <data key="d6">-73.998091</data>
+    </node>
+    <node id="R36">
+      <data key="d0">B</data>
+      <data key="d1">4254406</data>
+      <data key="d2">1924520</data>
+      <data key="d3">-2329886</data>
+      <data key="d4">36 St</data>
+      <data key="d5">40.655144</data>
+      <data key="d6">-74.003549</data>
+    </node>
+    <node id="R39">
+      <data key="d0">B</data>
+      <data key="d1">2461410</data>
+      <data key="d2">1081234</data>
+      <data key="d3">-1380176</data>
+      <data key="d4">45 St</data>
+      <data key="d5">40.648939</data>
+      <data key="d6">-74.010006</data>
+    </node>
+    <node id="R40">
+      <data key="d0">B</data>
+      <data key="d1">2797730</data>
+      <data key="d2">1368019</data>
+      <data key="d3">-1429711</data>
+      <data key="d4">53 St</data>
+      <data key="d5">40.645069</data>
+      <data key="d6">-74.014034</data>
+    </node>
+    <node id="R41">
+      <data key="d0">B</data>
+      <data key="d1">3664480</data>
+      <data key="d2">1631566</data>
+      <data key="d3">-2032914</data>
+      <data key="d4">59 St</data>
+      <data key="d5">40.641362</data>
+      <data key="d6">-74.017881</data>
+    </node>
+    <node id="R42">
+      <data key="d0">B</data>
+      <data key="d1">2354120</data>
+      <data key="d2">1023374</data>
+      <data key="d3">-1330746</data>
+      <data key="d4">Bay Ridge Av</data>
+      <data key="d5">40.634967</data>
+      <data key="d6">-74.023377</data>
+    </node>
+    <node id="R43">
+      <data key="d0">B</data>
+      <data key="d1">1674582</data>
+      <data key="d2">700333</data>
+      <data key="d3">-974249</data>
+      <data key="d4">77 St</data>
+      <data key="d5">40.629742</data>
+      <data key="d6">-74.02551</data>
+    </node>
+    <node id="R44">
+      <data key="d0">B</data>
+      <data key="d1">3434888</data>
+      <data key="d2">1538353</data>
+      <data key="d3">-1896535</data>
+      <data key="d4">86 St</data>
+      <data key="d5">40.622687</data>
+      <data key="d6">-74.028398</data>
+    </node>
+    <node id="R45">
+      <data key="d0">B</data>
+      <data key="d1">1743441</data>
+      <data key="d2">740055</data>
+      <data key="d3">-1003386</data>
+      <data key="d4">Bay Ridge-95 St</data>
+      <data key="d5">40.616622</data>
+      <data key="d6">-74.030876</data>
+    </node>
+    <node id="S03">
+      <data key="d0">B</data>
+      <data key="d1">519984</data>
+      <data key="d2">214950</data>
+      <data key="d3">-305034</data>
+      <data key="d4">Park Pl</data>
+      <data key="d5">40.674772</data>
+      <data key="d6">-73.957624</data>
+    </node>
+    <edge source="101" target="103" />
+    <edge source="103" target="104" />
+    <edge source="104" target="106" />
+    <edge source="106" target="107" />
+    <edge source="107" target="108" />
+    <edge source="108" target="LINK_109" />
+    <edge source="LINK_109" target="110" />
+    <edge source="LINK_109" target="A05" />
+    <edge source="LINK_109" target="A02" />
+    <edge source="110" target="LINK_111" />
+    <edge source="LINK_111" target="LINK_112" />
+    <edge source="LINK_111" target="A07" />
+    <edge source="LINK_111" target="A05" />
+    <edge source="LINK_112" target="113" />
+    <edge source="LINK_112" target="LINK_A12" />
+    <edge source="LINK_112" target="A07" />
+    <edge source="LINK_112" target="A10" />
+    <edge source="113" target="114" />
+    <edge source="114" target="115" />
+    <edge source="115" target="116" />
+    <edge source="116" target="117" />
+    <edge source="117" target="118" />
+    <edge source="118" target="119" />
+    <edge source="119" target="120" />
+    <edge source="120" target="121" />
+    <edge source="120" target="123" />
+    <edge source="120" target="227" />
+    <edge source="121" target="122" />
+    <edge source="122" target="123" />
+    <edge source="123" target="124" />
+    <edge source="123" target="LINK_127" />
+    <edge source="124" target="LINK_125" />
+    <edge source="LINK_125" target="126" />
+    <edge source="LINK_125" target="LINK_127" />
+    <edge source="LINK_125" target="A25" />
+    <edge source="LINK_125" target="A22" />
+    <edge source="LINK_125" target="D14" />
+    <edge source="LINK_125" target="A15" />
+    <edge source="126" target="LINK_127" />
+    <edge source="LINK_127" target="128" />
+    <edge source="LINK_127" target="726" />
+    <edge source="LINK_127" target="LINK_724" />
+    <edge source="LINK_127" target="LINK_326" />
+    <edge source="LINK_127" target="A28" />
+    <edge source="LINK_127" target="A25" />
+    <edge source="LINK_127" target="R14" />
+    <edge source="LINK_127" target="LINK_D17" />
+    <edge source="LINK_127" target="R15" />
+    <edge source="128" target="129" />
+    <edge source="128" target="LINK_132" />
+    <edge source="129" target="130" />
+    <edge source="130" target="131" />
+    <edge source="131" target="LINK_132" />
+    <edge source="LINK_132" target="133" />
+    <edge source="LINK_132" target="137" />
+    <edge source="LINK_132" target="LINK_A32" />
+    <edge source="LINK_132" target="D18" />
+    <edge source="LINK_132" target="LINK_A31" />
+    <edge source="LINK_132" target="LINK_635" />
+    <edge source="133" target="134" />
+    <edge source="134" target="135" />
+    <edge source="135" target="136" />
+    <edge source="136" target="137" />
+    <edge source="137" target="138" />
+    <edge source="137" target="LINK_317" />
+    <edge source="138" target="139" />
+    <edge source="139" target="LINK_142" />
+    <edge source="LINK_142" target="LINK_232" />
+    <edge source="LINK_142" target="R26" />
+    <edge source="201" target="204" />
+    <edge source="204" target="205" />
+    <edge source="205" target="206" />
+    <edge source="206" target="207" />
+    <edge source="207" target="LINK_208" />
+    <edge source="LINK_208" target="213" />
+    <edge source="LINK_208" target="209" />
+    <edge source="LINK_208" target="LINK_211" />
+    <edge source="LINK_208" target="502" />
+    <edge source="209" target="210" />
+    <edge source="210" target="LINK_211" />
+    <edge source="LINK_211" target="212" />
+    <edge source="LINK_211" target="505" />
+    <edge source="212" target="213" />
+    <edge source="213" target="214" />
+    <edge source="213" target="221" />
+    <edge source="213" target="505" />
+    <edge source="214" target="215" />
+    <edge source="215" target="216" />
+    <edge source="216" target="217" />
+    <edge source="217" target="218" />
+    <edge source="218" target="219" />
+    <edge source="219" target="220" />
+    <edge source="220" target="221" />
+    <edge source="221" target="LINK_222" />
+    <edge source="LINK_222" target="224" />
+    <edge source="LINK_222" target="416" />
+    <edge source="LINK_222" target="621" />
+    <edge source="LINK_222" target="LINK_414" />
+    <edge source="224" target="225" />
+    <edge source="224" target="302" />
+    <edge source="225" target="226" />
+    <edge source="226" target="227" />
+    <edge source="LINK_317" target="LINK_229" />
+    <edge source="LINK_317" target="A34" />
+    <edge source="LINK_317" target="R26" />
+    <edge source="LINK_317" target="R24" />
+    <edge source="LINK_229" target="230" />
+    <edge source="LINK_229" target="419" />
+    <edge source="LINK_229" target="LINK_640" />
+    <edge source="LINK_229" target="A40" />
+    <edge source="LINK_229" target="M23" />
+    <edge source="230" target="231" />
+    <edge source="231" target="LINK_232" />
+    <edge source="LINK_232" target="233" />
+    <edge source="LINK_232" target="234" />
+    <edge source="LINK_232" target="420" />
+    <edge source="LINK_232" target="LINK_A41" />
+    <edge source="233" target="234" />
+    <edge source="234" target="LINK_235" />
+    <edge source="LINK_235" target="236" />
+    <edge source="LINK_235" target="LINK_239" />
+    <edge source="LINK_235" target="D22" />
+    <edge source="LINK_235" target="R30" />
+    <edge source="LINK_235" target="D25" />
+    <edge source="LINK_235" target="R32" />
+    <edge source="LINK_235" target="R36" />
+    <edge source="LINK_235" target="LINK_312" />
+    <edge source="236" target="237" />
+    <edge source="237" target="238" />
+    <edge source="238" target="LINK_239" />
+    <edge source="LINK_239" target="241" />
+    <edge source="LINK_239" target="248" />
+    <edge source="LINK_239" target="250" />
+    <edge source="LINK_239" target="D26" />
+    <edge source="LINK_239" target="S03" />
+    <edge source="241" target="242" />
+    <edge source="242" target="243" />
+    <edge source="243" target="244" />
+    <edge source="244" target="245" />
+    <edge source="245" target="246" />
+    <edge source="246" target="247" />
+    <edge source="248" target="249" />
+    <edge source="249" target="250" />
+    <edge source="250" target="251" />
+    <edge source="251" target="252" />
+    <edge source="252" target="253" />
+    <edge source="253" target="254" />
+    <edge source="254" target="255" />
+    <edge source="255" target="256" />
+    <edge source="256" target="257" />
+    <edge source="301" target="302" />
+    <edge source="401" target="402" />
+    <edge source="402" target="405" />
+    <edge source="405" target="406" />
+    <edge source="406" target="407" />
+    <edge source="407" target="408" />
+    <edge source="408" target="409" />
+    <edge source="409" target="413" />
+    <edge source="409" target="410" />
+    <edge source="410" target="411" />
+    <edge source="411" target="412" />
+    <edge source="412" target="413" />
+    <edge source="413" target="LINK_414" />
+    <edge source="LINK_414" target="D12" />
+    <edge source="LINK_414" target="D10" />
+    <edge source="416" target="621" />
+    <edge source="419" target="420" />
+    <edge source="501" target="502" />
+    <edge source="601" target="602" />
+    <edge source="602" target="603" />
+    <edge source="603" target="604" />
+    <edge source="604" target="606" />
+    <edge source="606" target="607" />
+    <edge source="607" target="608" />
+    <edge source="608" target="609" />
+    <edge source="608" target="613" />
+    <edge source="609" target="610" />
+    <edge source="610" target="611" />
+    <edge source="611" target="612" />
+    <edge source="612" target="613" />
+    <edge source="613" target="614" />
+    <edge source="613" target="619" />
+    <edge source="614" target="615" />
+    <edge source="615" target="616" />
+    <edge source="616" target="617" />
+    <edge source="617" target="618" />
+    <edge source="618" target="619" />
+    <edge source="619" target="621" />
+    <edge source="621" target="626" />
+    <edge source="621" target="622" />
+    <edge source="622" target="623" />
+    <edge source="623" target="624" />
+    <edge source="624" target="625" />
+    <edge source="625" target="626" />
+    <edge source="626" target="LINK_629" />
+    <edge source="626" target="627" />
+    <edge source="627" target="628" />
+    <edge source="628" target="LINK_629" />
+    <edge source="LINK_629" target="LINK_326" />
+    <edge source="LINK_629" target="LINK_630" />
+    <edge source="LINK_629" target="G21" />
+    <edge source="LINK_629" target="R13" />
+    <edge source="LINK_629" target="LINK_718" />
+    <edge source="LINK_630" target="LINK_326" />
+    <edge source="LINK_630" target="LINK_719" />
+    <edge source="LINK_630" target="F12" />
+    <edge source="LINK_326" target="LINK_635" />
+    <edge source="LINK_326" target="632" />
+    <edge source="LINK_326" target="LINK_724" />
+    <edge source="LINK_326" target="721" />
+    <edge source="632" target="633" />
+    <edge source="633" target="634" />
+    <edge source="634" target="LINK_635" />
+    <edge source="LINK_635" target="LINK_640" />
+    <edge source="LINK_635" target="636" />
+    <edge source="LINK_635" target="LINK_312" />
+    <edge source="LINK_635" target="LINK_D17" />
+    <edge source="LINK_635" target="L05" />
+    <edge source="LINK_635" target="R21" />
+    <edge source="LINK_635" target="R19" />
+    <edge source="636" target="LINK_637" />
+    <edge source="LINK_637" target="638" />
+    <edge source="LINK_637" target="F14" />
+    <edge source="LINK_637" target="D22" />
+    <edge source="LINK_637" target="LINK_A32" />
+    <edge source="LINK_637" target="LINK_F15" />
+    <edge source="638" target="LINK_312" />
+    <edge source="LINK_312" target="LINK_640" />
+    <edge source="LINK_312" target="R30" />
+    <edge source="LINK_312" target="R22" />
+    <edge source="LINK_312" target="M19" />
+    <edge source="LINK_312" target="R24" />
+    <edge source="701" target="702" />
+    <edge source="702" target="707" />
+    <edge source="702" target="705" />
+    <edge source="705" target="706" />
+    <edge source="706" target="707" />
+    <edge source="707" target="712" />
+    <edge source="707" target="708" />
+    <edge source="708" target="709" />
+    <edge source="709" target="LINK_710" />
+    <edge source="LINK_710" target="711" />
+    <edge source="LINK_710" target="B04" />
+    <edge source="LINK_710" target="G21" />
+    <edge source="LINK_710" target="G08" />
+    <edge source="LINK_710" target="G13" />
+    <edge source="LINK_710" target="G15" />
+    <edge source="711" target="712" />
+    <edge source="712" target="LINK_718" />
+    <edge source="712" target="713" />
+    <edge source="713" target="714" />
+    <edge source="714" target="715" />
+    <edge source="715" target="716" />
+    <edge source="716" target="LINK_718" />
+    <edge source="LINK_718" target="LINK_719" />
+    <edge source="LINK_718" target="R08" />
+    <edge source="LINK_719" target="720" />
+    <edge source="LINK_719" target="G24" />
+    <edge source="LINK_719" target="G21" />
+    <edge source="720" target="721" />
+    <edge source="LINK_724" target="D15" />
+    <edge source="LINK_724" target="LINK_D17" />
+    <edge source="A10" target="A11" />
+    <edge source="A11" target="LINK_A12" />
+    <edge source="LINK_A12" target="A15" />
+    <edge source="LINK_A12" target="A14" />
+    <edge source="LINK_A12" target="D07" />
+    <edge source="LINK_A12" target="D12" />
+    <edge source="A14" target="A15" />
+    <edge source="A15" target="A16" />
+    <edge source="A16" target="A17" />
+    <edge source="A17" target="A18" />
+    <edge source="A18" target="A19" />
+    <edge source="A19" target="A20" />
+    <edge source="A20" target="A21" />
+    <edge source="A21" target="A22" />
+    <edge source="A25" target="D14" />
+    <edge source="A28" target="LINK_A31" />
+    <edge source="A28" target="A30" />
+    <edge source="A30" target="LINK_A31" />
+    <edge source="LINK_A31" target="LINK_A32" />
+    <edge source="LINK_A32" target="A34" />
+    <edge source="LINK_A32" target="A33" />
+    <edge source="LINK_A32" target="LINK_D17" />
+    <edge source="A33" target="A34" />
+    <edge source="A40" target="LINK_A41" />
+    <edge source="LINK_A41" target="A42" />
+    <edge source="LINK_A41" target="F24" />
+    <edge source="LINK_A41" target="F20" />
+    <edge source="LINK_A41" target="F18" />
+    <edge source="LINK_A41" target="R30" />
+    <edge source="A42" target="A46" />
+    <edge source="A42" target="A43" />
+    <edge source="A42" target="F20" />
+    <edge source="A42" target="G36" />
+    <edge source="A43" target="A44" />
+    <edge source="A44" target="A45" />
+    <edge source="A45" target="A46" />
+    <edge source="A46" target="A48" />
+    <edge source="A46" target="A47" />
+    <edge source="A47" target="A48" />
+    <edge source="A48" target="LINK_A51" />
+    <edge source="A48" target="A49" />
+    <edge source="A49" target="A50" />
+    <edge source="A50" target="LINK_A51" />
+    <edge source="LINK_A51" target="A55" />
+    <edge source="LINK_A51" target="A52" />
+    <edge source="LINK_A51" target="J29" />
+    <edge source="LINK_A51" target="J24" />
+    <edge source="LINK_A51" target="J28" />
+    <edge source="LINK_A51" target="L21" />
+    <edge source="LINK_A51" target="L24" />
+    <edge source="A52" target="A53" />
+    <edge source="A53" target="A54" />
+    <edge source="A54" target="A55" />
+    <edge source="A55" target="A57" />
+    <edge source="A57" target="A59" />
+    <edge source="A59" target="A60" />
+    <edge source="A60" target="A61" />
+    <edge source="A61" target="H02" />
+    <edge source="A61" target="H01" />
+    <edge source="A61" target="A63" />
+    <edge source="A63" target="A64" />
+    <edge source="A64" target="A65" />
+    <edge source="B04" target="B06" />
+    <edge source="B06" target="B08" />
+    <edge source="B08" target="B10" />
+    <edge source="B08" target="R14" />
+    <edge source="B08" target="Q03" />
+    <edge source="B10" target="D15" />
+    <edge source="B12" target="B13" />
+    <edge source="B12" target="R36" />
+    <edge source="B13" target="B14" />
+    <edge source="B14" target="B15" />
+    <edge source="B15" target="LINK_B16" />
+    <edge source="LINK_B16" target="B17" />
+    <edge source="LINK_B16" target="N05" />
+    <edge source="LINK_B16" target="N03" />
+    <edge source="B17" target="B18" />
+    <edge source="B18" target="B19" />
+    <edge source="B19" target="B20" />
+    <edge source="B20" target="B21" />
+    <edge source="B21" target="B22" />
+    <edge source="B22" target="B23" />
+    <edge source="B23" target="D43" />
+    <edge source="D01" target="D03" />
+    <edge source="D03" target="D04" />
+    <edge source="D04" target="D05" />
+    <edge source="D05" target="D07" />
+    <edge source="D05" target="D06" />
+    <edge source="D06" target="D07" />
+    <edge source="D07" target="D08" />
+    <edge source="D08" target="D09" />
+    <edge source="D09" target="D10" />
+    <edge source="D14" target="F12" />
+    <edge source="D14" target="D15" />
+    <edge source="D15" target="F12" />
+    <edge source="LINK_D17" target="D18" />
+    <edge source="LINK_D17" target="R18" />
+    <edge source="D22" target="R30" />
+    <edge source="D25" target="D26" />
+    <edge source="D26" target="D28" />
+    <edge source="D26" target="D27" />
+    <edge source="D27" target="D28" />
+    <edge source="D28" target="D31" />
+    <edge source="D28" target="D29" />
+    <edge source="D29" target="D30" />
+    <edge source="D30" target="D31" />
+    <edge source="D31" target="D35" />
+    <edge source="D31" target="D32" />
+    <edge source="D32" target="D33" />
+    <edge source="D33" target="D34" />
+    <edge source="D34" target="D35" />
+    <edge source="D35" target="D39" />
+    <edge source="D35" target="D37" />
+    <edge source="D37" target="D38" />
+    <edge source="D38" target="D39" />
+    <edge source="D39" target="D40" />
+    <edge source="D40" target="D41" />
+    <edge source="D41" target="D42" />
+    <edge source="D42" target="F39" />
+    <edge source="D42" target="D43" />
+    <edge source="D43" target="N10" />
+    <edge source="F01" target="F03" />
+    <edge source="F01" target="F02" />
+    <edge source="F02" target="F03" />
+    <edge source="F03" target="F06" />
+    <edge source="F03" target="F04" />
+    <edge source="F04" target="F05" />
+    <edge source="F05" target="F06" />
+    <edge source="F05" target="G07" />
+    <edge source="F06" target="G08" />
+    <edge source="F06" target="G07" />
+    <edge source="F06" target="F07" />
+    <edge source="F07" target="G08" />
+    <edge source="LINK_F15" target="F16" />
+    <edge source="LINK_F15" target="F14" />
+    <edge source="LINK_F15" target="M19" />
+    <edge source="LINK_F15" target="M16" />
+    <edge source="F16" target="F18" />
+    <edge source="F20" target="F21" />
+    <edge source="F21" target="F22" />
+    <edge source="LINK_F23" target="F24" />
+    <edge source="LINK_F23" target="F22" />
+    <edge source="LINK_F23" target="R32" />
+    <edge source="LINK_F23" target="R34" />
+    <edge source="F24" target="F27" />
+    <edge source="F24" target="F25" />
+    <edge source="F25" target="F26" />
+    <edge source="F26" target="F27" />
+    <edge source="F27" target="F29" />
+    <edge source="F29" target="F30" />
+    <edge source="F30" target="F31" />
+    <edge source="F31" target="F32" />
+    <edge source="F32" target="F33" />
+    <edge source="F33" target="F34" />
+    <edge source="F34" target="F35" />
+    <edge source="F35" target="F36" />
+    <edge source="F36" target="F38" />
+    <edge source="F38" target="F39" />
+    <edge source="G05" target="G06" />
+    <edge source="G06" target="G07" />
+    <edge source="G06" target="J13" />
+    <edge source="G06" target="J12" />
+    <edge source="G08" target="G09" />
+    <edge source="G09" target="G10" />
+    <edge source="G10" target="G11" />
+    <edge source="G11" target="G12" />
+    <edge source="G12" target="G13" />
+    <edge source="G15" target="G16" />
+    <edge source="G16" target="G18" />
+    <edge source="G18" target="G19" />
+    <edge source="G19" target="G20" />
+    <edge source="G20" target="G21" />
+    <edge source="G24" target="G26" />
+    <edge source="G26" target="G28" />
+    <edge source="LINK_G29" target="G30" />
+    <edge source="LINK_G29" target="G28" />
+    <edge source="LINK_G29" target="L08" />
+    <edge source="LINK_G29" target="L11" />
+    <edge source="G30" target="G31" />
+    <edge source="G31" target="G32" />
+    <edge source="G32" target="G33" />
+    <edge source="G33" target="G34" />
+    <edge source="G34" target="G35" />
+    <edge source="G35" target="G36" />
+    <edge source="H01" target="H02" />
+    <edge source="H02" target="H03" />
+    <edge source="H03" target="H04" />
+    <edge source="H04" target="H06" />
+    <edge source="H04" target="H12" />
+    <edge source="H06" target="H07" />
+    <edge source="H07" target="H08" />
+    <edge source="H08" target="H09" />
+    <edge source="H09" target="H10" />
+    <edge source="H10" target="H11" />
+    <edge source="H12" target="H13" />
+    <edge source="H13" target="H14" />
+    <edge source="H14" target="H15" />
+    <edge source="J12" target="J14" />
+    <edge source="J12" target="J13" />
+    <edge source="J13" target="J15" />
+    <edge source="J13" target="J14" />
+    <edge source="J14" target="J15" />
+    <edge source="J15" target="J17" />
+    <edge source="J15" target="J16" />
+    <edge source="J16" target="J19" />
+    <edge source="J16" target="J17" />
+    <edge source="J17" target="J20" />
+    <edge source="J17" target="J19" />
+    <edge source="J19" target="J20" />
+    <edge source="J20" target="J22" />
+    <edge source="J20" target="J21" />
+    <edge source="J21" target="J23" />
+    <edge source="J21" target="J22" />
+    <edge source="J22" target="J24" />
+    <edge source="J22" target="J23" />
+    <edge source="J23" target="J24" />
+    <edge source="J28" target="J30" />
+    <edge source="J28" target="J29" />
+    <edge source="J29" target="J31" />
+    <edge source="J29" target="J30" />
+    <edge source="J30" target="M11" />
+    <edge source="J30" target="J31" />
+    <edge source="J31" target="M11" />
+    <edge source="L05" target="L06" />
+    <edge source="L06" target="L08" />
+    <edge source="L11" target="L12" />
+    <edge source="L12" target="L13" />
+    <edge source="L13" target="L14" />
+    <edge source="L14" target="L15" />
+    <edge source="L15" target="L16" />
+    <edge source="LINK_L17" target="M06" />
+    <edge source="LINK_L17" target="M09" />
+    <edge source="LINK_L17" target="L16" />
+    <edge source="LINK_L17" target="L19" />
+    <edge source="L19" target="L20" />
+    <edge source="L20" target="L21" />
+    <edge source="L24" target="L25" />
+    <edge source="L25" target="L26" />
+    <edge source="L26" target="L27" />
+    <edge source="L27" target="L28" />
+    <edge source="L28" target="L29" />
+    <edge source="M01" target="M04" />
+    <edge source="M04" target="M05" />
+    <edge source="M05" target="M06" />
+    <edge source="M09" target="M10" />
+    <edge source="M10" target="M11" />
+    <edge source="M11" target="M16" />
+    <edge source="M11" target="M12" />
+    <edge source="M12" target="M13" />
+    <edge source="M13" target="M14" />
+    <edge source="M14" target="M16" />
+    <edge source="N02" target="N03" />
+    <edge source="N02" target="R41" />
+    <edge source="N05" target="N06" />
+    <edge source="N06" target="N07" />
+    <edge source="N07" target="N08" />
+    <edge source="N08" target="N09" />
+    <edge source="N09" target="N10" />
+    <edge source="Q03" target="Q04" />
+    <edge source="Q04" target="Q05" />
+    <edge source="R01" target="R03" />
+    <edge source="R03" target="R04" />
+    <edge source="R04" target="R05" />
+    <edge source="R05" target="R06" />
+    <edge source="R06" target="R08" />
+    <edge source="R13" target="R14" />
+    <edge source="R14" target="R15" />
+    <edge source="R18" target="R19" />
+    <edge source="R21" target="R22" />
+    <edge source="R34" target="R35" />
+    <edge source="R35" target="R36" />
+    <edge source="R36" target="R39" />
+    <edge source="R36" target="R41" />
+    <edge source="R39" target="R40" />
+    <edge source="R40" target="R41" />
+    <edge source="R41" target="R42" />
+    <edge source="R42" target="R43" />
+    <edge source="R43" target="R44" />
+    <edge source="R44" target="R45" />
+  </graph>
+</graphml>
