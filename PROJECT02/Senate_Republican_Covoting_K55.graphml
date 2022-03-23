@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d4" />
+  <key attr.name="state_abbrev" attr.type="string" for="node" id="d3" />
+  <key attr.name="party" attr.type="string" for="node" id="d2" />
+  <key attr.name="bioname" attr.type="string" for="node" id="d1" />
+  <key attr.name="short_name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="49700">
+      <data key="d0">R-AL-SESSIONS</data>
+      <data key="d1">SESSIONS, Jefferson Beauregard III (Jeff)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">AL</data>
+    </node>
+    <node id="94659">
+      <data key="d0">R-AL-SHELBY</data>
+      <data key="d1">SHELBY, Richard C.</data>
+      <data key="d2">Republican</data>
+      <data key="d3">AL</data>
+    </node>
+    <node id="40300">
+      <data key="d0">R-AK-MURKOWSKI</data>
+      <data key="d1">MURKOWSKI, Lisa</data>
+      <data key="d2">Republican</data>
+      <data key="d3">AK</data>
+    </node>
+    <node id="15039">
+      <data key="d0">R-AZ-McCAIN</data>
+      <data key="d1">McCAIN, John Sidney, III</data>
+      <data key="d2">Republican</data>
+      <data key="d3">AZ</data>
+    </node>
+    <node id="20100">
+      <data key="d0">R-AZ-FLAKE</data>
+      <data key="d1">FLAKE, Jeff</data>
+      <data key="d2">Republican</data>
+      <data key="d3">AZ</data>
+    </node>
+    <node id="20101">
+      <data key="d0">R-AR-BOOZMAN</data>
+      <data key="d1">BOOZMAN, John</data>
+      <data key="d2">Republican</data>
+      <data key="d3">AR</data>
+    </node>
+    <node id="41102">
+      <data key="d0">R-FL-RUBIO</data>
+      <data key="d1">RUBIO, Marco</data>
+      <data key="d2">Republican</data>
+      <data key="d3">FL</data>
+    </node>
+    <node id="29512">
+      <data key="d0">R-GA-CHAMBLISS</data>
+      <data key="d1">CHAMBLISS, Saxby</data>
+      <data key="d2">Republican</data>
+      <data key="d3">GA</data>
+    </node>
+    <node id="29909">
+      <data key="d0">R-GA-ISAKSON</data>
+      <data key="d1">ISAKSON, Johnny</data>
+      <data key="d2">Republican</data>
+      <data key="d3">GA</data>
+    </node>
+    <node id="29345">
+      <data key="d0">R-ID-CRAPO</data>
+      <data key="d1">CRAPO, Michael Dean</data>
+      <data key="d2">Republican</data>
+      <data key="d3">ID</data>
+    </node>
+    <node id="40902">
+      <data key="d0">R-ID-RISCH</data>
+      <data key="d1">RISCH, James</data>
+      <data key="d2">Republican</data>
+      <data key="d3">ID</data>
+    </node>
+    <node id="20115">
+      <data key="d0">R-IL-KIRK</data>
+      <data key="d1">KIRK, Mark Steven</data>
+      <data key="d2">Republican</data>
+      <data key="d3">IL</data>
+    </node>
+    <node id="14806">
+      <data key="d0">R-IN-COATS</data>
+      <data key="d1">COATS, Daniel Ray</data>
+      <data key="d2">Republican</data>
+      <data key="d3">IN</data>
+    </node>
+    <node id="14226">
+      <data key="d0">R-IA-GRASSLEY</data>
+      <data key="d1">GRASSLEY, Charles Ernest</data>
+      <data key="d2">Republican</data>
+      <data key="d3">IA</data>
+    </node>
+    <node id="14852">
+      <data key="d0">R-KS-ROBERTS</data>
+      <data key="d1">ROBERTS, Charles Patrick (Pat)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">KS</data>
+    </node>
+    <node id="29722">
+      <data key="d0">R-KS-MORAN</data>
+      <data key="d1">MORAN, Jerry</data>
+      <data key="d2">Republican</data>
+      <data key="d3">KS</data>
+    </node>
+    <node id="14921">
+      <data key="d0">R-KY-McCONNELL</data>
+      <data key="d1">McCONNELL, Addison Mitchell (Mitch)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">KY</data>
+    </node>
+    <node id="41104">
+      <data key="d0">R-KY-PAUL</data>
+      <data key="d1">PAUL, Rand</data>
+      <data key="d2">Republican</data>
+      <data key="d3">KY</data>
+    </node>
+    <node id="29918">
+      <data key="d0">R-LA-VITTER</data>
+      <data key="d1">VITTER, David</data>
+      <data key="d2">Republican</data>
+      <data key="d3">LA</data>
+    </node>
+    <node id="49703">
+      <data key="d0">R-ME-COLLINS</data>
+      <data key="d1">COLLINS, Susan Margaret</data>
+      <data key="d2">Republican</data>
+      <data key="d3">ME</data>
+    </node>
+    <node id="14009">
+      <data key="d0">R-MS-COCHRAN</data>
+      <data key="d1">COCHRAN, William Thad</data>
+      <data key="d2">Republican</data>
+      <data key="d3">MS</data>
+    </node>
+    <node id="29534">
+      <data key="d0">R-MS-WICKER</data>
+      <data key="d1">WICKER, Roger F.</data>
+      <data key="d2">Republican</data>
+      <data key="d3">MS</data>
+    </node>
+    <node id="29735">
+      <data key="d0">R-MO-BLUNT</data>
+      <data key="d1">BLUNT, Roy</data>
+      <data key="d2">Republican</data>
+      <data key="d3">MO</data>
+    </node>
+    <node id="40905">
+      <data key="d0">R-NE-JOHANNS</data>
+      <data key="d1">JOHANNS, Mike</data>
+      <data key="d2">Republican</data>
+      <data key="d3">NE</data>
+    </node>
+    <node id="41302">
+      <data key="d0">R-NE-FISCHER</data>
+      <data key="d1">FISCHER, Debra (Deb)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">NE</data>
+    </node>
+    <node id="20730">
+      <data key="d0">R-NV-HELLER</data>
+      <data key="d1">HELLER, Dean</data>
+      <data key="d2">Republican</data>
+      <data key="d3">NV</data>
+    </node>
+    <node id="41106">
+      <data key="d0">R-NH-AYOTTE</data>
+      <data key="d1">AYOTTE, Kelly</data>
+      <data key="d2">Republican</data>
+      <data key="d3">NH</data>
+    </node>
+    <node id="41307">
+      <data key="d0">R-NJ-CHIESA</data>
+      <data key="d1">CHIESA, Jeffrey Scott</data>
+      <data key="d2">Republican</data>
+      <data key="d3">NJ</data>
+    </node>
+    <node id="29548">
+      <data key="d0">R-NC-BURR</data>
+      <data key="d1">BURR, Richard M.</data>
+      <data key="d2">Republican</data>
+      <data key="d3">NC</data>
+    </node>
+    <node id="41107">
+      <data key="d0">R-ND-HOEVEN</data>
+      <data key="d1">HOEVEN, John</data>
+      <data key="d2">Republican</data>
+      <data key="d3">ND</data>
+    </node>
+    <node id="29386">
+      <data key="d0">R-OH-PORTMAN</data>
+      <data key="d1">PORTMAN, Robert Jones (Rob)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">OH</data>
+    </node>
+    <node id="15424">
+      <data key="d0">R-OK-INHOFE</data>
+      <data key="d1">INHOFE, James Mountain</data>
+      <data key="d2">Republican</data>
+      <data key="d3">OK</data>
+    </node>
+    <node id="29555">
+      <data key="d0">R-OK-COBURN</data>
+      <data key="d1">COBURN, Thomas Allen</data>
+      <data key="d2">Republican</data>
+      <data key="d3">OK</data>
+    </node>
+    <node id="29935">
+      <data key="d0">R-PA-TOOMEY</data>
+      <data key="d1">TOOMEY, Patrick Joseph</data>
+      <data key="d2">Republican</data>
+      <data key="d3">PA</data>
+    </node>
+    <node id="21173">
+      <data key="d0">R-SC-SCOTT</data>
+      <data key="d1">SCOTT, Tim</data>
+      <data key="d2">Republican</data>
+      <data key="d3">SC</data>
+    </node>
+    <node id="29566">
+      <data key="d0">R-SC-GRAHAM</data>
+      <data key="d1">GRAHAM, Lindsey O.</data>
+      <data key="d2">Republican</data>
+      <data key="d3">SC</data>
+    </node>
+    <node id="29754">
+      <data key="d0">R-SD-THUNE</data>
+      <data key="d1">THUNE, John</data>
+      <data key="d2">Republican</data>
+      <data key="d3">SD</data>
+    </node>
+    <node id="40304">
+      <data key="d0">R-TN-ALEXANDER</data>
+      <data key="d1">ALEXANDER, Lamar</data>
+      <data key="d2">Republican</data>
+      <data key="d3">TN</data>
+    </node>
+    <node id="40705">
+      <data key="d0">R-TN-CORKER</data>
+      <data key="d1">CORKER, Robert (Bob)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">TN</data>
+    </node>
+    <node id="40305">
+      <data key="d0">R-TX-CORNYN</data>
+      <data key="d1">CORNYN, John</data>
+      <data key="d2">Republican</data>
+      <data key="d3">TX</data>
+    </node>
+    <node id="41304">
+      <data key="d0">R-TX-CRUZ</data>
+      <data key="d1">CRUZ, Rafael Edward (Ted)</data>
+      <data key="d2">Republican</data>
+      <data key="d3">TX</data>
+    </node>
+    <node id="14503">
+      <data key="d0">R-UT-HATCH</data>
+      <data key="d1">HATCH, Orrin Grant</data>
+      <data key="d2">Republican</data>
+      <data key="d3">UT</data>
+    </node>
+    <node id="41110">
+      <data key="d0">R-UT-LEE</data>
+      <data key="d1">LEE, Mike</data>
+      <data key="d2">Republican</data>
+      <data key="d3">UT</data>
+    </node>
+    <node id="41111">
+      <data key="d0">R-WI-JOHNSON</data>
+      <data key="d1">JOHNSON, Ron</data>
+      <data key="d2">Republican</data>
+      <data key="d3">WI</data>
+    </node>
+    <node id="40707">
+      <data key="d0">R-WY-BARRASSO</data>
+      <data key="d1">BARRASSO, John A.</data>
+      <data key="d2">Republican</data>
+      <data key="d3">WY</data>
+    </node>
+    <node id="49706">
+      <data key="d0">R-WY-ENZI</data>
+      <data key="d1">ENZI, Michael B.</data>
+      <data key="d2">Republican</data>
+      <data key="d3">WY</data>
+    </node>
+    <edge source="49700" target="29555">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="94659" target="40300">
+      <data key="d4">0.6542553191489362</data>
+    </edge>
+    <edge source="94659" target="14009">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="94659" target="29555">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="40300" target="20101">
+      <data key="d4">0.5691489361702128</data>
+    </edge>
+    <edge source="40300" target="41102">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+    <edge source="40300" target="29345">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="40300" target="40902">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="40300" target="14852">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+    <edge source="40300" target="29722">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="40300" target="41104">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="40300" target="29918">
+      <data key="d4">0.5957446808510638</data>
+    </edge>
+    <edge source="40300" target="14009">
+      <data key="d4">0.5638297872340425</data>
+    </edge>
+    <edge source="40300" target="29735">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="40300" target="15424">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="40300" target="29555">
+      <data key="d4">0.574468085106383</data>
+    </edge>
+    <edge source="40300" target="21173">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="40300" target="41304">
+      <data key="d4">0.6382978723404256</data>
+    </edge>
+    <edge source="40300" target="41110">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="15039" target="14009">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="15039" target="29555">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="20100" target="20101">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="20100" target="29918">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="20100" target="14009">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+    <edge source="20100" target="29555">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="20101" target="29512">
+      <data key="d4">0.6329787234042553</data>
+    </edge>
+    <edge source="20101" target="20115">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="20101" target="29722">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="20101" target="49703">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="20101" target="14009">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="20101" target="40905">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="20101" target="29555">
+      <data key="d4">0.5531914893617021</data>
+    </edge>
+    <edge source="20101" target="40304">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="20101" target="40705">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="41102" target="49703">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="41102" target="14009">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="41102" target="29555">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41102" target="40304">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="41102" target="40705">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="29512" target="29918">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="29512" target="14009">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="29512" target="29555">
+      <data key="d4">0.6329787234042553</data>
+    </edge>
+    <edge source="29909" target="14009">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="29909" target="29555">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="29345" target="14009">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="29345" target="29555">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="40902" target="49703">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="40902" target="14009">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="40902" target="29555">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="20115" target="29918">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="20115" target="14009">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="20115" target="29555">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="14806" target="14009">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="14806" target="29555">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="14852" target="49703">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="14852" target="14009">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="14852" target="29555">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="29722" target="29918">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="29722" target="49703">
+      <data key="d4">0.6542553191489362</data>
+    </edge>
+    <edge source="29722" target="14009">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="29722" target="29555">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="29722" target="40304">
+      <data key="d4">0.6542553191489362</data>
+    </edge>
+    <edge source="14921" target="14009">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="14921" target="29555">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="41104" target="14009">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="41104" target="29555">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="29918" target="49703">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="29918" target="14009">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="29918" target="29555">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="29918" target="40304">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="29918" target="40705">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="49703" target="14009">
+      <data key="d4">0.5957446808510638</data>
+    </edge>
+    <edge source="49703" target="15424">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="49703" target="29555">
+      <data key="d4">0.5904255319148937</data>
+    </edge>
+    <edge source="14009" target="29735">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="14009" target="20730">
+      <data key="d4">0.6542553191489362</data>
+    </edge>
+    <edge source="14009" target="29548">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="14009" target="29386">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="14009" target="15424">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="14009" target="21173">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="14009" target="29566">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="14009" target="40304">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="14009" target="40705">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="14009" target="40305">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="14009" target="41304">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="14009" target="14503">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="29534" target="29555">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="29735" target="29555">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="40905" target="29555">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41302" target="29555">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="20730" target="29555">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="41106" target="29555">
+      <data key="d4">0.6648936170212766</data>
+    </edge>
+    <edge source="41107" target="29555">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="29386" target="29555">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="15424" target="29555">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="29555" target="29935">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="29555" target="21173">
+      <data key="d4">0.6542553191489362</data>
+    </edge>
+    <edge source="29555" target="29566">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="29555" target="40304">
+      <data key="d4">0.5957446808510638</data>
+    </edge>
+    <edge source="29555" target="40705">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+    <edge source="29555" target="40305">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="29555" target="41304">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="29555" target="41110">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+  </graph>
+</graphml>

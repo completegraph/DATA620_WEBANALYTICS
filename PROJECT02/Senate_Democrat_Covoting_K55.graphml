@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d4" />
+  <key attr.name="state_abbrev" attr.type="string" for="node" id="d3" />
+  <key attr.name="party" attr.type="string" for="node" id="d2" />
+  <key attr.name="bioname" attr.type="string" for="node" id="d1" />
+  <key attr.name="short_name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="40900">
+      <data key="d0">D-AK-BEGICH</data>
+      <data key="d1">BEGICH, Mark</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">AK</data>
+    </node>
+    <node id="40301">
+      <data key="d0">D-AR-PRYOR</data>
+      <data key="d1">PRYOR, Mark</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">AR</data>
+    </node>
+    <node id="15011">
+      <data key="d0">D-CA-BOXER</data>
+      <data key="d1">BOXER, Barbara</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">CA</data>
+    </node>
+    <node id="49300">
+      <data key="d0">D-CA-FEINSTEIN</data>
+      <data key="d1">FEINSTEIN, Dianne</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">CA</data>
+    </node>
+    <node id="29906">
+      <data key="d0">D-CO-UDALL</data>
+      <data key="d1">UDALL, Mark</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">CO</data>
+    </node>
+    <node id="40910">
+      <data key="d0">D-CO-BENNET</data>
+      <data key="d1">BENNET, Michael F.</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">CO</data>
+    </node>
+    <node id="20707">
+      <data key="d0">D-CT-MURPHY</data>
+      <data key="d1">MURPHY, Christopher</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">CT</data>
+    </node>
+    <node id="41101">
+      <data key="d0">D-CT-BLUMENTHAL</data>
+      <data key="d1">BLUMENTHAL, Richard</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">CT</data>
+    </node>
+    <node id="15015">
+      <data key="d0">D-DE-CARPER</data>
+      <data key="d1">CARPER, Thomas Richard</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">DE</data>
+    </node>
+    <node id="40916">
+      <data key="d0">D-DE-COONS</data>
+      <data key="d1">COONS, Christopher A.</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">DE</data>
+    </node>
+    <node id="14651">
+      <data key="d0">D-FL-NELSON</data>
+      <data key="d1">NELSON, Clarence William (Bill)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">FL</data>
+    </node>
+    <node id="20713">
+      <data key="d0">D-HI-HIRONO</data>
+      <data key="d1">HIRONO, Mazie</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">HI</data>
+    </node>
+    <node id="41112">
+      <data key="d0">D-HI-SCHATZ</data>
+      <data key="d1">SCHATZ, Brian Emanuel</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">HI</data>
+    </node>
+    <node id="15021">
+      <data key="d0">D-IL-DURBIN</data>
+      <data key="d1">DURBIN, Richard Joseph</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">IL</data>
+    </node>
+    <node id="20717">
+      <data key="d0">D-IN-DONNELLY</data>
+      <data key="d1">DONNELLY, Joe</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">IN</data>
+    </node>
+    <node id="14230">
+      <data key="d0">D-IA-HARKIN</data>
+      <data key="d1">HARKIN, Thomas Richard (Tom)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">IA</data>
+    </node>
+    <node id="49702">
+      <data key="d0">D-LA-LANDRIEU</data>
+      <data key="d1">LANDRIEU, Mary L.</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">LA</data>
+    </node>
+    <node id="41300">
+      <data key="d0">D-ME-KING</data>
+      <data key="d1">KING, Angus Stanley, Jr.</data>
+      <data key="d2">Independent</data>
+      <data key="d3">ME</data>
+    </node>
+    <node id="14440">
+      <data key="d0">D-MD-MIKULSKI</data>
+      <data key="d1">MIKULSKI, Barbara Ann</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MD</data>
+    </node>
+    <node id="15408">
+      <data key="d0">D-MD-CARDIN</data>
+      <data key="d1">CARDIN, Benjamin Louis</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MD</data>
+    </node>
+    <node id="14435">
+      <data key="d0">D-MA-MARKEY</data>
+      <data key="d1">MARKEY, Edward John</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MA</data>
+    </node>
+    <node id="14920">
+      <data key="d0">D-MA-KERRY</data>
+      <data key="d1">KERRY, John Forbes</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MA</data>
+    </node>
+    <node id="41301">
+      <data key="d0">D-MA-WARREN</data>
+      <data key="d1">WARREN, Elizabeth</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MA</data>
+    </node>
+    <node id="41306">
+      <data key="d0">D-MA-COWAN</data>
+      <data key="d1">COWAN, William (Mo)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MA</data>
+    </node>
+    <node id="14709">
+      <data key="d0">D-MI-LEVIN</data>
+      <data key="d1">LEVIN, Carl</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MI</data>
+    </node>
+    <node id="29732">
+      <data key="d0">D-MI-STABENOW</data>
+      <data key="d1">STABENOW, Deborah Ann</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MI</data>
+    </node>
+    <node id="40700">
+      <data key="d0">D-MN-KLOBUCHAR</data>
+      <data key="d1">KLOBUCHAR, Amy</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MN</data>
+    </node>
+    <node id="40904">
+      <data key="d0">D-MN-FRANKEN</data>
+      <data key="d1">FRANKEN, Al</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MN</data>
+    </node>
+    <node id="40701">
+      <data key="d0">D-MO-McCASKILL</data>
+      <data key="d1">McCASKILL, Claire</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MO</data>
+    </node>
+    <node id="14203">
+      <data key="d0">D-MT-BAUCUS</data>
+      <data key="d1">BAUCUS, Max Sieben</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MT</data>
+    </node>
+    <node id="40702">
+      <data key="d0">D-MT-TESTER</data>
+      <data key="d1">TESTER, Jon</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MT</data>
+    </node>
+    <node id="41309">
+      <data key="d0">D-MT-WALSH</data>
+      <data key="d1">WALSH, John E.</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">MT</data>
+    </node>
+    <node id="15054">
+      <data key="d0">D-NV-REID</data>
+      <data key="d1">REID, Harry</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NV</data>
+    </node>
+    <node id="40906">
+      <data key="d0">D-NH-SHAHEEN</data>
+      <data key="d1">SHAHEEN, Jeanne</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NH</data>
+    </node>
+    <node id="14914">
+      <data key="d0">D-NJ-LAUTENBERG</data>
+      <data key="d1">LAUTENBERG, Frank Raleigh</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NJ</data>
+    </node>
+    <node id="29373">
+      <data key="d0">D-NJ-MENENDEZ</data>
+      <data key="d1">MENENDEZ, Robert</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NJ</data>
+    </node>
+    <node id="41308">
+      <data key="d0">D-NJ-BOOKER</data>
+      <data key="d1">BOOKER, Cory Anthony</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NJ</data>
+    </node>
+    <node id="20930">
+      <data key="d0">D-NM-HEINRICH</data>
+      <data key="d1">HEINRICH, Martin</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NM</data>
+    </node>
+    <node id="29924">
+      <data key="d0">D-NM-UDALL</data>
+      <data key="d1">UDALL, Thomas (Tom)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NM</data>
+    </node>
+    <node id="14858">
+      <data key="d0">D-NY-SCHUMER</data>
+      <data key="d1">SCHUMER, Charles Ellis (Chuck)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NY</data>
+    </node>
+    <node id="20735">
+      <data key="d0">D-NY-GILLIBRAND</data>
+      <data key="d1">GILLIBRAND, Kirsten</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NY</data>
+    </node>
+    <node id="40907">
+      <data key="d0">D-NC-HAGAN</data>
+      <data key="d1">HAGAN, Kay</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">NC</data>
+    </node>
+    <node id="41303">
+      <data key="d0">D-ND-HEITKAMP</data>
+      <data key="d1">HEITKAMP, Mary Kathryn (Heidi)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">ND</data>
+    </node>
+    <node id="29389">
+      <data key="d0">D-OH-BROWN</data>
+      <data key="d1">BROWN, Sherrod</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">OH</data>
+    </node>
+    <node id="14871">
+      <data key="d0">D-OR-WYDEN</data>
+      <data key="d1">WYDEN, Ronald Lee</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">OR</data>
+    </node>
+    <node id="40908">
+      <data key="d0">D-OR-MERKLEY</data>
+      <data key="d1">MERKLEY, Jeff</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">OR</data>
+    </node>
+    <node id="40703">
+      <data key="d0">D-PA-CASEY</data>
+      <data key="d1">CASEY, Robert (Bob), Jr.</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">PA</data>
+    </node>
+    <node id="29142">
+      <data key="d0">D-RI-REED</data>
+      <data key="d1">REED, John F. (Jack)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">RI</data>
+    </node>
+    <node id="40704">
+      <data key="d0">D-RI-WHITEHOUSE</data>
+      <data key="d1">WHITEHOUSE, Sheldon</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">RI</data>
+    </node>
+    <node id="15425">
+      <data key="d0">D-SD-JOHNSON</data>
+      <data key="d1">JOHNSON, Timothy Peter (Tim)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">SD</data>
+    </node>
+    <node id="14307">
+      <data key="d0">D-VT-LEAHY</data>
+      <data key="d1">LEAHY, Patrick Joseph</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">VT</data>
+    </node>
+    <node id="29147">
+      <data key="d0">D-VT-SANDERS</data>
+      <data key="d1">SANDERS, Bernard</data>
+      <data key="d2">Independent</data>
+      <data key="d3">VT</data>
+    </node>
+    <node id="40909">
+      <data key="d0">D-VA-WARNER</data>
+      <data key="d1">WARNER, Mark</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">VA</data>
+    </node>
+    <node id="41305">
+      <data key="d0">D-VA-KAINE</data>
+      <data key="d1">KAINE, Timothy Michael (Tim)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">VA</data>
+    </node>
+    <node id="39310">
+      <data key="d0">D-WA-CANTWELL</data>
+      <data key="d1">CANTWELL, Maria E.</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">WA</data>
+    </node>
+    <node id="49308">
+      <data key="d0">D-WA-MURRAY</data>
+      <data key="d1">MURRAY, Patty</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">WA</data>
+    </node>
+    <node id="14922">
+      <data key="d0">D-WV-ROCKEFELLER</data>
+      <data key="d1">ROCKEFELLER, John Davison IV (Jay)</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">WV</data>
+    </node>
+    <node id="40915">
+      <data key="d0">D-WV-MANCHIN</data>
+      <data key="d1">MANCHIN, Joe, III</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">WV</data>
+    </node>
+    <node id="29940">
+      <data key="d0">D-WI-BALDWIN</data>
+      <data key="d1">BALDWIN, Tammy</data>
+      <data key="d2">Democrat</data>
+      <data key="d3">WI</data>
+    </node>
+    <edge source="40900" target="41309">
+      <data key="d4">0.5531914893617021</data>
+    </edge>
+    <edge source="40900" target="41308">
+      <data key="d4">0.6436170212765957</data>
+    </edge>
+    <edge source="40301" target="41308">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="15011" target="41309">
+      <data key="d4">0.5691489361702128</data>
+    </edge>
+    <edge source="15011" target="41308">
+      <data key="d4">0.6595744680851063</data>
+    </edge>
+    <edge source="49300" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="29906" target="41309">
+      <data key="d4">0.5904255319148937</data>
+    </edge>
+    <edge source="40910" target="41309">
+      <data key="d4">0.5957446808510638</data>
+    </edge>
+    <edge source="20707" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41101" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="15015" target="41309">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="40916" target="41309">
+      <data key="d4">0.601063829787234</data>
+    </edge>
+    <edge source="14651" target="41309">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="14651" target="41308">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="20713" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41112" target="41309">
+      <data key="d4">0.5531914893617021</data>
+    </edge>
+    <edge source="41112" target="41308">
+      <data key="d4">0.6329787234042553</data>
+    </edge>
+    <edge source="15021" target="41309">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="20717" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="14230" target="41309">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="49702" target="14435">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="49702" target="41308">
+      <data key="d4">0.574468085106383</data>
+    </edge>
+    <edge source="49702" target="14922">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="41300" target="41309">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="41300" target="41308">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="14440" target="41309">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="15408" target="41309">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+    <edge source="14435" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="14435" target="14922">
+      <data key="d4">0.648936170212766</data>
+    </edge>
+    <edge source="41301" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="14709" target="41309">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="14709" target="41308">
+      <data key="d4">0.675531914893617</data>
+    </edge>
+    <edge source="29732" target="41309">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="40700" target="41309">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="40904" target="41309">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+    <edge source="40701" target="41309">
+      <data key="d4">0.5585106382978723</data>
+    </edge>
+    <edge source="40701" target="41308">
+      <data key="d4">0.6382978723404256</data>
+    </edge>
+    <edge source="40702" target="41309">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="15054">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="41309" target="40906">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="41309" target="29373">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="41308">
+      <data key="d4">0.5957446808510638</data>
+    </edge>
+    <edge source="41309" target="20930">
+      <data key="d4">0.601063829787234</data>
+    </edge>
+    <edge source="41309" target="29924">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41309" target="14858">
+      <data key="d4">0.6329787234042553</data>
+    </edge>
+    <edge source="41309" target="20735">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="40907">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="41303">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="29389">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="14871">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41309" target="40908">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="41309" target="40703">
+      <data key="d4">0.5851063829787234</data>
+    </edge>
+    <edge source="41309" target="29142">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="41309" target="40704">
+      <data key="d4">0.6170212765957447</data>
+    </edge>
+    <edge source="41309" target="15425">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="14307">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="29147">
+      <data key="d4">0.574468085106383</data>
+    </edge>
+    <edge source="41309" target="40909">
+      <data key="d4">0.6063829787234043</data>
+    </edge>
+    <edge source="41309" target="41305">
+      <data key="d4">0.6117021276595744</data>
+    </edge>
+    <edge source="41309" target="39310">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41309" target="49308">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41309" target="40915">
+      <data key="d4">0.5531914893617021</data>
+    </edge>
+    <edge source="41309" target="29940">
+      <data key="d4">0.6223404255319149</data>
+    </edge>
+    <edge source="41308" target="41303">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="41308" target="29147">
+      <data key="d4">0.6702127659574468</data>
+    </edge>
+    <edge source="41308" target="40915">
+      <data key="d4">0.6276595744680851</data>
+    </edge>
+  </graph>
+</graphml>
