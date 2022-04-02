@@ -1,4 +1,4 @@
-B_A_name,B_A_firstletter,B_A_secondletter,B_A_lastletter,B_N_length,B_N_numconsonants,B_N_numvowels,P_A_dmetacode,P_N_dmetalen,P_A_phx_00,P_A_phx_01,P_A_phx_02,P_A_phx_03,P_A_phx_04,P_A_phx_05,P_A_phx_06,P_A_phx_07,P_A_phx_08,P_A_phx_09,P_A_phx_10,P_A_phx_11,P_A_phcode,P_A_phfirst,P_N_phlen,P_N_phsyllables,P_B_phfound,P_N_phx_stress,P_A_phx_last,R_A_gender
+B_A_name,B_A_firstletter,B_A_secondletter,B_A_lastletter,B_N_length,B_N_numconsonants,B_N_numvowels,B_A_dmetacode,B_N_dmetalen,P_A_phx_00,P_A_phx_01,P_A_phx_02,P_A_phx_03,P_A_phx_04,P_A_phx_05,P_A_phx_06,P_A_phx_07,P_A_phx_08,P_A_phx_09,P_A_phx_10,P_A_phx_11,P_A_phcode,P_A_phfirst,P_N_phlen,P_N_phsyllables,P_B_phfound,P_N_phx_stress,P_A_phx_last,R_A_gender
 Jerry,j,e,y,5,4,1,JR,2,JH,EH,R,IY,,,,,,,,,JH EH1 R IY0,JH,4,2,True,1,IY,male
 Griff,g,r,f,5,4,1,KRF,3,G,R,IH,F,,,,,,,,,G R IH1 F,G,4,1,True,1,F,male
 Donelle,d,o,e,7,4,3,TNL,3,,,,,,,,,,,,,,,0,0,False,0,,female
