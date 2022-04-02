@@ -1,0 +1,128 @@
+---
+title: "Data 620 PROJECT 3 EDA"
+subtitle: ""
+author: "Alexander Ng"
+date: "04/01/2022"
+output:
+  tufte::tufte_html: 
+    toc: true
+    toc_depth: '2'
+    highlight: pygments
+    number_sections: no
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    df_print: paged
+    highlight: tango
+    number_sections: yes
+    theme: readable
+    toc: yes
+    toc_depth: 0
+    toc_float: no
+    fontsize: 11
+editor_options:
+  chunk_output_type: inline
+  markdown: 
+    wrap: sentence
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message =FALSE, warning=FALSE)
+```
+
+```{r warning=FALSE, message=FALSE}
+
+library(tidyverse)
+library(skimr)
+library(ggplot2)
+library(knitr)
+library(kableExtra)
+library(cowplot)
+```
+
+
+# EDA FOR PROJECT 3
+
+We exported names_all.csv from the nltk library. This is the 2 column file of the names and genders for all samples.
+
+We add the first letter of each name as a column `first_let`.
+
+```{r warning=FALSE, message=FALSE, include=FALSE}
+
+names_all = read_csv("names_all.csv", col_types = cols(B_N_length = col_integer(), 
+         P_N_dmetalen = col_integer(), P_N_phlen = col_integer(), 
+         P_N_phsyllables = col_integer()))
+
+names_all %>% group_by(B_A_firstletter, R_A_gender) %>% summarize(Count =n()) -> first_letter_all
+
+names_test = read_csv("names_test.csv")
+names_test %>% group_by(B_A_firstletter, R_A_gender) %>% summarize(Count =n()) -> first_letter_test
+
+names_train = read_csv("names_train.csv")
+names_train %>% group_by(B_A_firstletter , R_A_gender) %>% summarize(Count =n()) -> first_letter_train
+
+
+
+```
+
+
+
+```{r}
+
+p1 = ggplot(data= first_letter_all, aes(fill = R_A_gender, y = Count, x = B_A_firstletter )) +
+  geom_bar(position = "stack", stat = "identity") +
+  ggtitle("All")
+
+p2 = ggplot(data= first_letter_train, aes(fill = R_A_gender, y = Count, x = B_A_firstletter )) +
+  geom_bar(position = "stack", stat = "identity") +
+  ggtitle("Train")
+
+p3 = ggplot(data= first_letter_test, aes(fill = R_A_gender, y = Count, x = B_A_firstletter )) +
+  geom_bar(position = "stack", stat = "identity") +
+  ggtitle("Test")
+
+title <- ggdraw() + draw_label("First Letter Frequency by Gender per Dataset", x = 0, hjust = 0) +
+  theme( plot.margin = margin(0,0,0,7))
+
+pg = plot_grid(p1, p2, p3, ncol=2)
+
+plot_grid(title, pg, ncol = 1 , rel_heights = c(0.1, 1))
+```
+
+Proportion of Female and Male Names
+
+```{r}
+prop.table(table( names_all$R_A_gender))
+```
+
+Name Frequency by First Letter in Alphabetical Order
+
+```{r}
+prop.table(table( names_all$B_A_firstletter  ) )-> by_first_let
+
+df = data.frame( letter = names(by_first_let), proportion = round(as.numeric(by_first_let) * 100, 2 ) )
+
+t_df = t(df) 
+
+t_df %>% kable(digits =1) %>% kable_styling(bootstrap_options = c("hover", "striped"), full_width = F)
+
+df %>% arrange(desc(proportion)) -> df_sorted
+
+t(df_sorted) %>% kable(digits =1, caption = "Sorted by First Letter Frequency") %>% kable_styling(bootstrap_options = c("hover", "striped"), full_width = F)
+
+```
+
+```{r}
+skim(names_all)
+```
+
+
+
+# Code
+
+We summarize all the R code used in this project in this appendix for ease of reading.
+
+```{r ref.label=knitr::all_labels(), echo=TRUE, eval=FALSE}
+
+```
