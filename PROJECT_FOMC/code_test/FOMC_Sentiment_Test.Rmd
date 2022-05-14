@@ -1,0 +1,43 @@
+---
+title: "FOMC_Sentiment_Regression"
+author: "Alexander Ng"
+date: "5/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(skimr)
+```
+
+
+```{r}
+
+raw_sentiment_returns_file = "../derived/Data_for_LinReg.csv"
+
+sr_raw = read_csv(raw_sentiment_returns_file)
+
+head(sr_raw)
+
+```
+
+
+```{r}
+
+skim(sr_raw)
+```
+
+
+
+```{r}
+wilshire = sr_raw %>% select( sentiment, d1sentiment, WILL5000IND, WILL5000IND_fp2, WILL5000IND_fp5)
+```
+
+```{r, fig.width = 12, fig.height =12}
+pairs(wilshire)
+```
